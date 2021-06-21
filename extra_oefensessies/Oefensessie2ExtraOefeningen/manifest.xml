@@ -1,0 +1,731 @@
+<courseModule>
+
+  <module>
+    <name><![CDATA[  Oefensessie 2 - Extra oefeningen  ]]></name>
+    <description><![CDATA[  Course Module  ]]></description>
+    <uri><![CDATA[  6759de4d-d153-4030-a344-fe110e5c1047  ]]></uri>
+    <privacy>0</privacy>
+    <autoModule>true</autoModule>
+    <exportedFrom>e3e940ac-5a0e-4e12-9f6b-40d06aac9158</exportedFrom>
+  </module>
+
+  <questions>
+
+    <question uid="34911235-83cf-43ab-a355-14caccb6385f" modifiedBy="d0598cdd-3917-4403-ae1f-d0ac420fdb25" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  15.1  ]]></name>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $t=range(1,5,1);
+$x=range(5,10,1);
+$ans = $x/$t  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een visser merkt op dat er iedere $t s een golftop zijn voor anker liggende boot passeert. Hij meet dat de afstand tussen twee toppen $x&nbsp;m is. Hoe snel lopen de golven?</p>
+
+<p><em>v</em>&nbsp;=&nbsp;<1><span>&nbsp;m/s</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="bb29058f-8218-4102-bb28-50459b4fb47b" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  9.45  ]]></name>
+      <comment><![CDATA[  <p>Als we ervan uitgaan dat de slinger start met de&nbsp;maximum uitwijking, dan wordt de bewegingsvergelijking&nbsp;</p>
+<math display="block"><mrow> <mi>θ</mi><mo>=</mo><msub> <mi>θ</mi> <mn>0</mn> </msub> <mi>cos</mi><mi>ω</mi><mi>t</mi><mo>=</mo><msub> <mi>θ</mi> <mn>0</mn> </msub> <mi>cos</mi><mfrac> <mrow> <mn>2</mn><mi>π</mi><mi>t</mi></mrow> <mi>T</mi> </mfrac> <mo>.</mo></mrow></math>
+
+<p>Los op voor de tijd dat nodig is om naar de helft van de amplitude te geraken.&nbsp;</p>
+<math display="block"><mrow> <msub> <mi>θ</mi> <mrow> <mn>1</mn><mo>/</mo><mn>2</mn></mrow> </msub> <mo>=</mo><mstyle scriptlevel="+1"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mstyle> <msub> <mi>θ</mi> <mn>0</mn> </msub> <mo>=</mo><msub> <mi>θ</mi> <mn>0</mn> </msub> <mi>cos</mi><mfrac> <mrow> <mn>2</mn><mi>π</mi><msub> <mi>t</mi> <mrow> <mn>1</mn><mo>/</mo><mn>2</mn></mrow> </msub> </mrow> <mi>T</mi> </mfrac> <mtext>&nbsp;&nbsp;</mtext><mo>→</mo><mtext>&nbsp;&nbsp;</mtext><mfrac> <mrow> <mn>2</mn><mi>π</mi><msub> <mi>t</mi> <mrow> <mn>1</mn><mo>/</mo><mn>2</mn></mrow> </msub> </mrow> <mi>T</mi> </mfrac> <mo>=</mo><msup> <mrow> <mi>cos</mi></mrow> <mrow> <mo>−</mo><mn>1</mn></mrow> </msup> <mstyle scriptlevel="+1"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mstyle> <mo>=</mo><mfrac> <mi>π</mi> <mn>3</mn> </mfrac> <mtext>&nbsp;&nbsp;</mtext><mo>→</mo><mtext>&nbsp;&nbsp;</mtext><msub> <mi>t</mi> <mrow> <mn>1</mn><mo>/</mo><mn>2</mn></mrow> </msub> <mo>=</mo><mstyle scriptlevel="+1"> <mfrac> <mn>1</mn> <mn>6</mn> </mfrac> </mstyle> <mi>T</mi></mrow></math>
+
+<p>Het neemt&nbsp;een zesde van de periode voor de positie om van 10&deg; naar 5&deg; te geraken. Het neemt een vierde van de periode voor de positie om van 10&deg; naar 0&deg; te geraken.Als we deze lijn doortrekken, neemt het een twaalfde van de periode voor de positie om van 0&deg; naar -5&deg; te geraken, en dus van +5&deg; naar -5&deg; neemt een zesde van de periode in beslag. De tweede helft van de cyclus is hetzelfde als de eerste. De totale tijd tussen +5&deg; en -5&deg; is&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mi mathvariant="italic">T</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></math>.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $ANSWER = T/3;  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een enkelvoudige slinger voert een trilling uit met een amplitude van 10.0°. Welk deel van de tijd bevindt hij zich tussen de +5.0° en -5.0°?&nbsp;</p>
+
+<p>Ga uit van een EHB en verwaarloos de wrijving.&nbsp;</p>
+
+<p><b>Druk je antwoord uit als een functie van de periode.</b></p>
+
+<p>&nbsp;\(\Delta t =\)&nbsp;<1><span>&nbsp;</span></p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Maple</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <width>0.0</width>
+          <mapleAnswer><![CDATA[  $ANSWER  ]]></mapleAnswer>
+          <maple><![CDATA[  evalb(($ANSWER)-($RESPONSE)=0);  ]]></maple>
+          <type>maple</type>
+          <allow2d>0</allow2d>
+          <mathConversionMode>0</mathConversionMode>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="b2026823-d3aa-467f-8bd3-c9edd31c1ea4" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  15.4  ]]></name>
+      <comment><![CDATA[  <p>Om de golflengte te vinden, gebruik je&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mi mathvariant="italic">f</mi></mrow></mfrac></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel 1</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>1</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3.00</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>8</mn></mrow></msup><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mi mathvariant="italic">s</mi></mrow></mfrac><mspace width="5px"></mspace></mrow><mrow><mn>550</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>545</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3.00</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>8</mn></mrow></msup><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mi mathvariant="italic">s</mi></mrow></mfrac><mspace width="5px"></mspace></mrow><mrow><mn>1600</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>188</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel 2</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>1</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mfrac><mrow><mn>3.00</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>8</mn></mrow></msup><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mi mathvariant="italic">s</mi></mrow></mfrac><mspace width="5px"></mspace></mrow><mrow><mn>88</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>6</mn></mrow></msup><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>3.41</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mfrac><mrow><mn>3.00</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>8</mn></mrow></msup><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mi mathvariant="italic">s</mi></mrow></mfrac><mspace width="5px"></mspace></mrow><mrow><mn>108</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>6</mn></mrow></msup><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>2.78</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p><strong>Deel A</strong></p>
+
+<p>AM-radiosignalen hebben frequenties tussen 550 kHz en 1600 kHz (kilohertz) en bewegen met een snelheid van 3,0 • 10<sup>8</sup>&nbsp;mis.&nbsp;</p>
+
+<p>1. Wat is de minimale golflengte van een AM signaal?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><sub>AM min&nbsp;</sub>=&nbsp;<1><span>&nbsp;m&nbsp;</span></p>
+
+<p>2. Wat is de maximale golflengte van een AM signaal?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><sub>AM max</sub>&nbsp;=&nbsp;<2><span>&nbsp;m&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<hr>
+<p><strong>Deel B</strong></p>
+
+<p>Bij FM variëren de frequenties van 88 MHz tot 108 MHz (megahertz) en bewegen de golven met dezelfde snelheid.<br>
+1. Wat is de minimale golflengte van een FM signaal?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><sub>FM min&nbsp;</sub>=&nbsp;<3><span>&nbsp;m&nbsp;</span></p>
+
+<p><span>2. Wat is de maximale golflengte van een FM signaal?</span></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><sub>FM max&nbsp;</sub>=&nbsp;<4><span>&nbsp;</span>m&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  188  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  545  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  2.78  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  3.41  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="cea1ac8f-b051-40fb-ae0e-b23d0309ecf8" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  9.56  ]]></name>
+      <comment><![CDATA[  <p><strong>Deel A</strong></p>
+
+<p>De periode kan gevonden worden door het gebruik van Eq. 14-18.&nbsp;</p>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mtable columnalign="left"><mtr><mtd><mrow><msup><mrow><mi mathvariant="italic">ω</mi></mrow><mrow><mo>′</mo></mrow></msup></mrow><mrow><mo>=</mo></mrow><mrow><msqrt><mrow><mfrac><mrow><mi mathvariant="italic">k</mi></mrow><mrow><mi mathvariant="italic">m</mi></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mi mathvariant="italic">b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn><msup><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></msqrt></mrow><mrow><mo>=</mo></mrow><mrow><msqrt><mrow><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$k</mn></mrow></mfenced></mrow><mrow><mfenced close=")" open="("><mrow><mn>$m</mn></mrow></mfenced></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mfenced close=")" open="("><mrow><mn>$b</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>4</mn><msup><mrow><mfenced close=")" open="("><mrow><mn>$m</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></msqrt></mrow><mrow><mo>=</mo></mrow><mrow><mn>$omega</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mspace width="5px"></mspace><mspace width="5px"></mspace></mrow><mrow><mtext>rad</mtext><mo>/</mo><mtext>s</mtext></mrow></mtd></mtr><mtr><mtd><mrow><mi mathvariant="italic">T</mi></mrow><mrow><mo>=</mo></mrow><mrow><mfrac><mrow><mn>2</mn><mi mathvariant="italic">π</mi></mrow><mrow><mi mathvariant="italic">ω</mi></mrow></mfrac></mrow><mrow><mo>=</mo></mrow><mrow><mfrac><mrow><mn>2</mn><mi mathvariant="italic">π</mi></mrow><mrow><mn>$omega</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">rad</mi><mo>/</mo><mi mathvariant="italic">s</mi></mrow></mfrac></mrow><mrow><mo>=</mo><mn>$ansa</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">s</mi></mrow></mtd></mtr></mtable></mrow></math>
+
+<hr />
+<p><strong>Deel B</strong></p>
+
+<p>Als de amplitude na een bepaalde tijd gelijk is aan&nbsp;<em>A</em>, dan zal die amplitude een cyclus later gelijk zijn aan&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">A</mi><mo>⋅</mo><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mi mathvariant="italic">γT</mi></mrow></msup></mrow></math>. Gebruik dit om de verhouding te bepalen.&nbsp;</p>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">relatieve</mi><mspace width="5px"></mspace><mi mathvariant="italic">verhouding</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">A</mi><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mi mathvariant="italic">γ</mi><mi mathvariant="italic">T</mi></mrow></msup><mo>−</mo><mi mathvariant="italic">A</mi></mrow><mrow><mi mathvariant="italic">A</mi></mrow></mfrac><mo>=</mo><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mi mathvariant="italic">γ</mi><mi mathvariant="italic">T</mi></mrow></msup><mo>−</mo><mn>1</mn><mo>=</mo><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mfrac><mrow><mi mathvariant="italic">b</mi></mrow><mrow><mn>2</mn><mi mathvariant="italic">m</mi></mrow></mfrac><mi mathvariant="italic">T</mi></mrow></msup><mo>−</mo><mn>1</mn><mo>=</mo><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$b</mn></mrow></mfenced></mrow><mrow><mn>2</mn><mfenced close=")" open="("><mrow><mn>$m</mn></mrow></mfenced></mrow></mfrac><mfenced close=")" open="("><mrow><mn>$ansa</mn></mrow></mfenced></mrow></msup><mo>−</mo><mn>1</mn><mo>=</mo><mspace width="5px"></mspace><mn>$ansb</mn></mrow></math>
+
+<hr />
+<p><strong>Deel C</strong></p>
+
+<p>Dus de amplitude daalt met $percentage % elke cyclus. Het object is in de oorsprong op&nbsp;<em>t</em>&nbsp;= 0. Daarom gebruiken we een sinusfunctie in de bewegingsvergelijking.&nbsp;</p>
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mtable columnalign="left"><mtr><mtd><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mo>=</mo></mrow><mrow><mi mathvariant="italic">A</mi></mrow><mrow><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mi mathvariant="italic">γ</mi><mi mathvariant="italic">t</mi></mrow></msup></mrow><mrow><mi>sin</mi></mrow><mrow><mfenced close=")" open="("><mrow><msup><mrow><mi mathvariant="italic">ω</mi></mrow><mrow><mo>′</mo></mrow></msup><mi mathvariant="italic">t</mi></mrow></mfenced></mrow><mrow><mtext>&nbsp;&nbsp;</mtext></mrow><mrow><mo>→</mo></mrow><mrow><mtext>&nbsp;&nbsp;0</mtext></mrow><mrow><mtext>.120</mtext></mrow><mrow><mtext> </mtext></mrow><mrow><mtext>m</mtext></mrow><mrow><mo>=</mo></mrow><mrow><mi mathvariant="italic">A</mi></mrow><mrow><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$b</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">N</mi><mo>·</mo><mi mathvariant="italic">s</mi><mo>/</mo><mi mathvariant="italic">m</mi></mrow></mfenced></mrow><mrow><mn>2</mn><mfenced close=")" open="("><mrow><mn>$m</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mo> </mo><mi mathvariant="italic">kg</mi></mrow></mfenced></mrow></mfrac><mfenced close=")" open="("><mrow><mn>1.00</mn><mtext> </mtext><mtext>s</mtext></mrow></mfenced></mrow></msup></mrow><mrow><mtext>sin</mtext></mrow><mrow><mfenced close=")" open="("><mrow><mn>$omega</mn><mo> </mo><mi mathvariant="italic">rad</mi></mrow></mfenced></mrow><mrow><mtext>&nbsp;&nbsp;</mtext></mrow><mrow><mo>→</mo></mrow></mtd></mtr><mtr><mtd><mrow><mi mathvariant="italic">A</mi></mrow><mrow><mo>=</mo></mrow><mrow><mfrac><mrow><mtext>0</mtext><mtext>.120</mtext><mtext> </mtext><mtext>m</mtext></mrow><mrow><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$b</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">N</mi><mo>·</mo><mi mathvariant="italic">s</mi><mo>/</mo><mi mathvariant="italic">m</mi></mrow></mfenced></mrow><mrow><mn>2</mn><mfenced close=")" open="("><mrow><mn>$m</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mo> </mo><mi mathvariant="italic">kg</mi></mrow></mfenced></mrow></mfrac><mfenced close=")" open="("><mrow><mn>1.00</mn><mtext> </mtext><mtext>s</mtext></mrow></mfenced></mrow></msup><mtext>sin</mtext><mfenced close=")" open="("><mrow><mn>$omega</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">rad</mi></mrow></mfenced></mrow></mfrac></mrow><mrow><mo>=</mo></mrow><mrow><mn>$A</mn></mrow><mrow><mtext> </mtext></mrow><mrow><mtext>m&nbsp;&nbsp;;&nbsp;&nbsp;</mtext></mrow><mrow><mi mathvariant="italic">γ</mi></mrow><mrow><mo>=</mo></mrow><mrow><mfrac><mrow><mi mathvariant="italic">b</mi></mrow><mrow><mn>2</mn><mi mathvariant="italic">m</mi></mrow></mfrac></mrow><mrow><mo>=</mo></mrow><mrow><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$b</mn></mrow></mfenced></mrow><mrow><mn>2</mn><mfenced close=")" open="("><mrow><mn>$m</mn></mrow></mfenced></mrow></mfrac></mrow><mrow><mo>=</mo></mrow><mrow><mn>$gamma</mn></mrow><mrow><mtext> </mtext></mrow><mrow><msup><mrow><mtext>s</mtext></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></mtd></mtr></mtable></mrow></math>
+
+<p>Dus uiteindelijk krijgen we:&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">x</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfenced close=")" open="("><mrow><mn>$A</mn></mrow></mfenced><mo>⋅</mo><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mfenced close=")" open="("><mrow><mn>$gamma</mn></mrow></mfenced><mo>⋅</mo><mi mathvariant="italic">t</mi></mrow></msup><mo>⋅</mo><mi>sin</mi><mfenced close=")" open="("><mrow><mn>$omega</mn><mspace width="5px"></mspace><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">t</mi></mrow></mfenced></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $m = 0.835;
+$k = 41;    
+$b = 0.662; 
+$omega = sqrt(($k)/($m)-($b)^(2)/(4($m)^(2))); 
+$ansa = (2*pi)/(sqrt(($k)/($m )-(($b)^(2))/(4*($m)^(2)))); 
+$ansb = e^(-($b*$ansa)/(2($m))) -1;
+$percentage = - $ansb * 100; 
+$A = 0.120/(e^(-($b)/(2($m)))sin($omega));
+$gamma = ($b)/(2($m));  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een blok met een massa van 0.835 kg voert een trilling uit aan het uteinde van een veer waarvan de veerconstante gelijk is aan&nbsp;<em>k</em>&nbsp;= 41.0 N/m. De massa beweegt in een vloeistof die een tegenwerkende kracht&nbsp;<em>F = -bv&nbsp;</em>geeft, waarin&nbsp;<em>b =&nbsp;</em>0.662 N*s/m.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel A</strong></p>
+
+<p>Wat is de periode van de beweging?&nbsp;</p>
+
+<p><em>T</em>&nbsp;=&nbsp;<1><span>&nbsp;</span>s</p>
+
+<hr>
+<p><strong>Deel B</strong></p>
+
+<p>Wat is de relatieve afname in amplitude per cyclus?</p>
+
+<p>&nbsp;&nbsp;ΔA/A =&nbsp;<2><span>&nbsp;</span></p>
+
+<hr>
+<p><strong>Deel C</strong></p>
+
+<p>Schrijf de uitwijking als functie van de tijd op als&nbsp;<em>x</em>&nbsp;= 0 op&nbsp;<em>t</em>&nbsp;= 0, en&nbsp;<em>x =&nbsp;</em>0.120 m op t = 1.00 s.&nbsp;</p>
+
+<p>(a) bereken gamma:&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">γ</mi></mrow></math>&nbsp;=&nbsp;<3><span>&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>Vul de waarden van gamma en de periode in in de volgende vergelijking:&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">x</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfenced close=")" open="("><mrow><mn>$A</mn></mrow></mfenced><mo>⋅</mo><msup><mrow><mi mathvariant="italic">e</mi></mrow><mrow><mo>−</mo><mfenced close=")" open="("><mrow><mi mathvariant="italic">γ</mi></mrow></mfenced><mo>⋅</mo><mi mathvariant="italic">t</mi></mrow></msup><mo>⋅</mo><mi>sin</mi><mfenced close=")" open="("><mrow><mfrac><mrow><mn>2</mn><mo>⋅</mo><mi>π</mi></mrow><mrow><mi mathvariant="italic">T</mi></mrow></mfrac><mspace width="5px"></mspace><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">t</mi></mrow></mfenced></mrow></math>. Dit is dan de bewegingsvergelijking.&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansa  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansb  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $gamma  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="1b321291-4750-487b-bb1c-d7843283e868" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  15.10  ]]></name>
+      <comment><![CDATA[  <p><strong>Deel A:&nbsp;</strong></p>
+
+<p>Beide golven leggen dezelfde afstand af, dus&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">Δx</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>1</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></math>.&nbsp;&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></math>&nbsp;is de kleinste snelheid en&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></math>&nbsp;de grootste snelheid. De langzame golf zal er langer over doen om aan te komen en dus is&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></math>&nbsp;groter dan&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></math>.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>1</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>+</mo><mspace width="5px"></mspace><mn>$t</mn><mspace width="5px"></mspace><mi>min</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace></mrow></msub><mo>+</mo><mspace width="5px"></mspace><mn>$t1</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">s</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>1</mn></mrow></msub><mfenced close=")" open="("><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>+</mo><mspace width="5px"></mspace><mn>$t1</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">s</mi></mrow></mfenced><mo>=</mo><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>1</mn></mrow></msub><mspace width="5px"></mspace></mrow><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>−</mo><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><mfenced close=")" open="("><mrow><mn>$t1</mn></mrow></mfenced><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mn>5.5</mn></mrow><mrow><mn>8.5</mn><mo>−</mo><mn>5.5</mn></mrow></mfrac><mfenced close=")" open="("><mrow><mn>$t1</mn></mrow></mfenced><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>$feedback</mn></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">Δx</mi><mo>=</mo><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfenced close=")" open="("><mrow><mn>8.5</mn></mrow></mfenced><mfenced close=")" open="("><mrow><mn>$feedback</mn></mrow></mfenced><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>$ansK</mn></mrow></math>&nbsp;km</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel B:</strong></p>
+
+<p>Er is niet genoeg informatie om het epicentrum&nbsp;te bepalen. We weten alleen de afstand van het epicentrum&nbsp;tot het seismisch station. De richting is niet geweten. Er zijn zeker twee seismische stations nodig om het epicentrum te bepalen.&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $t=decimal(1,range(1,2,0.1));
+$t1 = $t*60; 
+$feedback=5.5/(8.5-5.5)*$t1;
+$ans = (8.5*5.5)/(8.5-5.5)*$t1; 
+$ansK="$ans";  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>P- en S-golven van een aardbeving bewegen met verschillende snelheden en dit verschil helpt bij het lokaliseren van het 'epicentrum' van de aardbeving (waar de verstoring plaatsvond).</p>
+
+<p>&nbsp;</p>
+
+<p>Uitgaande van snelheden van 8,5 km/s en 5,5 km/s voor respectievelijk P- en S-golven, hoe ver weg vond dan de aardbeving plaats als een bepaald seismisch station meet dat er tussen de aankomst van deze twee typen golven $t&nbsp;min zit?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>Δ</mi></mrow></math>x =&nbsp;<1><span>&nbsp;</span>km&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Opmerking</strong></p>
+
+<p>Eén seismisch station voldoende om de plaats van het epicentrum te bepalen.</p>
+
+<p>We weten alleen de afstand van het epicentrum&nbsp;tot het seismisch station. De richting is niet geweten. Er zijn twee extra seismische stations nodig om het epicentrum te bepalen.&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+  </questions>
+
+  <assignments>
+
+    <assignment uid="6759de4d-d153-4030-a344-fe110e5c1047" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4">
+      <name><![CDATA[  Oefensessie 2 - Extra oefeningen  ]]></name>
+      <privacy>10</privacy>
+      <category>LESSON</category>
+
+      <sections>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 1  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  9.45  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="bb29058f-8218-4102-bb28-50459b4fb47b">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 2  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  9.56  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="cea1ac8f-b051-40fb-ae0e-b23d0309ecf8">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 3  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  15.1  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="34911235-83cf-43ab-a355-14caccb6385f">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 4  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  15.4  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="b2026823-d3aa-467f-8bd3-c9edd31c1ea4">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 5  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  15.10  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="1b321291-4750-487b-bb1c-d7843283e868">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+      </sections>
+
+      <policies>
+        <mode>8</mode>
+        <reworkable>false</reworkable>
+        <reuseAlgorithmicVariables>false</reuseAlgorithmicVariables>
+        <targeted>false</targeted>
+        <scramble>0</scramble>
+        <printable>false</printable>
+        <preAuthorized>false</preAuthorized>
+        <gradeAuthorizationRequired>false</gradeAuthorizationRequired>
+        <useLockdown>false</useLockdown>
+        <isVisibleAdvancedPolicy>false</isVisibleAdvancedPolicy>
+        <passingScore>-1</passingScore>
+        <showPassFailFeedback>4</showPassFailFeedback>
+        <timeLimit>-1</timeLimit>
+        <quPerPage>1</quPerPage>
+        <presentationMode>0</presentationMode>
+        <completionMode>3</completionMode>
+        <isVisibleTimeRange>false</isVisibleTimeRange>
+        <isVisible>true</isVisible>
+        <forceGrade>false</forceGrade>
+        <allowSubmitLesson>false</allowSubmitLesson>
+        <showLaunchPage>false</showLaunchPage>
+        <showAdaptiveProgress>false</showAdaptiveProgress>
+        <hintsShown>false</hintsShown>
+        <showOneHint>false</showOneHint>
+        <showCurrentGrade>false</showCurrentGrade>
+        <allowResubmitQuestion>true</allowResubmitQuestion>
+        <inSessionGradeReported>true</inSessionGradeReported>
+        <inSessionAnswer>0</inSessionAnswer>
+        <inSessionComment>0</inSessionComment>
+        <gradeReported>true</gradeReported>
+        <showAnswer>2</showAnswer>
+        <showComment>0</showComment>
+        <emailNotified>false</emailNotified>
+        <delayedFeedback>false</delayedFeedback>
+        <maxAttempts>-1</maxAttempts>
+      </policies>
+    </assignment>
+  </assignments>
+
+  <authors>
+
+    <author uid="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Els Koppen  ]]></displayName>
+    </author>
+
+    <author uid="d0598cdd-3917-4403-ae1f-d0ac420fdb25" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Halewijn Van den Bossche  ]]></displayName>
+    </author>
+
+    <author uid="436cb620-def2-4015-9db5-a10e73979e1b" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Johan Van den Bossche  ]]></displayName>
+    </author>
+
+    <author uid="08dc0f11-c46f-4adb-b139-bd0857e997ff" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Floris De Feyter  ]]></displayName>
+    </author>
+  </authors>
+
+  <schools>
+
+    <school uid="7184ca85-f587-410e-b5c5-c427562555e1">
+      <name><![CDATA[  Katholieke Universiteit Leuven  ]]></name>
+    </school>
+  </schools>
+</courseModule>

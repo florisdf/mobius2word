@@ -1,0 +1,894 @@
+<courseModule>
+
+  <module>
+    <name><![CDATA[  Oefensessie 6  ]]></name>
+    <description><![CDATA[  Course Module  ]]></description>
+    <uri><![CDATA[  ade4acef-eac1-4ae1-b341-caf1631897fb  ]]></uri>
+    <privacy>0</privacy>
+    <autoModule>true</autoModule>
+    <exportedFrom>e3e940ac-5a0e-4e12-9f6b-40d06aac9158</exportedFrom>
+  </module>
+
+  <questions>
+
+    <question uid="fc8c808e-1565-436e-8038-471eb910f1dd" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.5  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Twee spleten staan 0,24 mm van elkaar en worden belicht met licht waarin twee golflengtes voorkomen : 480 nm en 560 nm. Men neemt een dubbel interferentiepatroon waar op een scherm dat 1,2 m achter de spleten staat. Wat is de eerste positie ten opzichte van het centrale maximum waarvoor de maxima van de twee golflengtes precies samenvallen ?</p>
+
+<p>&nbsp;</p>
+
+<p>x = <1><span> </span>mm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  16.8  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="faf77f37-6968-435c-a409-aeddaa697c7a" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.8  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>De twee luidsprekers in de figuur zenden dezelfde toon uit met een faseverschil van π rad. De frequentie is 500 Hz. Wat is de minimale waarde voor <em>d </em>opdat de intensiteit in <em>P</em> maximaal zou zijn? De geluidssnelheid is 340 m/s.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="__BASE_URI__Trillingen_DN/3_8/oef_8_interferentie.jpg" width="341" height="179"></p>
+
+<p>&nbsp;</p>
+
+<p>d = <1><span> </span>m</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  1.68  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="9dcdd1b1-0b0a-4bf7-95d1-8ce13cf1fb1e" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.2  ]]></name>
+      <comment><![CDATA[  <p>Voor constructieve interferentie is het&nbsp;weglengteverschil&nbsp;een veelvoud van de golflengte, gegeven door vergelijking 34-2a. Pas dit toe op de 5de orde.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>⋅</mo><mi mathvariant="italic">sinθ</mi><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mi mathvariant="italic">λ</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">dsinθ</mi></mrow><mrow><mi mathvariant="italic">m</mi></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$d</mn><mspace width="5px"></mspace><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></mfenced><mo>⋅</mo><mi>sin</mi><mfenced close=")" open="("><mrow><mn>$t</mn></mrow></mfenced></mrow><mrow><mn>5</mn></mrow></mfrac><mo>=</mo><mn>$ansa</mn></mrow></math>&nbsp;nm</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $d=decimal(3,range(0.015,0.020,0.001));
+$t=decimal(1,range(7.5,8.6,0.1));
+$ans=($d*10^(-3)*sin($t*pi/180)/5)*10^9;
+$ansa = maple("MapleTA:-Builtin:-sig(3,$ans)");  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Monochromatisch licht dat op twee spleten valt met een onderlinge afstand van $d mm levert de vijfdeordefranje op onder een hoek van <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>$t</mn></mrow></math>&nbsp;°. Wat is de golflengte (in nm) van het gebruikte licht?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;n</span>m</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansa  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="266b30ad-9818-453a-b7c3-8ae604c81ced" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.6  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Twee luidsprekers staan 1 m van elkaar en sturen een toon uit van 1000 Hz in fase. Een waarnemer loopt op een lijn evenwijdig met de lijn die de luidsprekers verbindt, en 8 m ervan verwijderd. Als hij vertrekt vanuit de symmetrische positie, welke afstand moet hij dan afleggen opdat hij het signaal niet meer zou horen ? De geluidssnelheid is 340 m/s.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="__BASE_URI__Trillingen_DN/3_6/oef_6_interferentie.jpg" width="308" height="206"></p>
+
+<p>&nbsp;</p>
+
+<p>x&nbsp; = <1><span> </span>m</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  1.36  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="9798c35c-7655-4d46-bba8-50ccf223e3a0" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.2  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>In het interferentiepatroon afkomstig van twee spleten is de afstand tussen de maxima van 4de orde (langs weerszijden van het centrale maximum) gelijk aan 7 cm. Als de afstand tussen de spleten 0,2 mm is en het scherm 3 m achter de spleten staat, wat is dan de golflengte van het gebruikte licht ?</p>
+
+<p>&nbsp;</p>
+
+<p><span></span><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><span>​</span> = <1><span> </span>nm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  583  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="7801f177-3bde-4b77-b7d3-119acab242bb" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.4  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Twee smalle spleten staan 0,2 mm van elkaar. Het 5de interferentieminimum ligt onder een hoek van 0,7° ten opzichte van het centrale maximum. Wat is de golflengte van het gebruikte licht ?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><span></span> = <1><span> </span>nm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  543  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="c4b0ee03-8fa9-40c9-9ebf-3bb649791d45" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.9  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>De luidsprekers in onderstaande figuur zenden dezelfde toon uit, zonder faseverschil. De afstand <em>d</em> tussen de luidsprekers bedraagt 2 m. Wat is de kleinste frequentie waarvoor de intensiteit in P (a) maximaal is; (b) minimaal is? De geluidssnelheid is 340 m/s.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="__BASE_URI__Trillingen_DN/3_8/oef_8_interferentie.jpg" width="326" height="171"></p>
+
+<p>&nbsp;</p>
+
+<p>(a) f = <1><span> </span>Hz</p>
+
+<p>(b) f = <2> Hz</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  720  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  360  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="f0b63c5e-d859-40f3-8058-1898ef439ded" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.1  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>In het twee-spletenexperiment van Young gebruikt men licht met een golflengte van 490 nm. Het interferentiemaximum van 6de orde ligt op 38 mm van het centrale maximum op een scherm dat 2,2 m van de spleten verwijderd is. Wat is de afstand tussen de twee spleten ?</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;x = <1><span> </span>mm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  0.17  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="ba6f3cd4-689a-4b5e-b7a2-4464d61f8318" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.47  ]]></name>
+      <comment><![CDATA[  <p><img alt="" src="__BASE_URI__34_47.png" style="width: 170px; height: 160px;" /></p>
+
+<p>De golflengte van het signaal is&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mi mathvariant="italic">f</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfenced close=")" open="("><mrow><mn>3.00</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>8</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfenced close=")" open="("><mrow><mn>75</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>6</mn></mrow></msup></mrow></mfenced></mrow></mfrac><mo>=</mo><mn>4.00</mn></mrow></math>&nbsp;m</p>
+
+<p><strong>Deel A</strong></p>
+
+<p>Er is een faseverschil tussen de directe en gereflecteerde signalen van beide wegverschillen,&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfenced close=")" open="("><mrow><mfrac><mrow><mi mathvariant="italic">h</mi></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac></mrow></mfenced><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></math>, en de reflectie,&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">π</mi></mrow></math>.</p>
+
+<p>Het totale faseverschil is de som van de twee.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">ϕ</mi><mo>=</mo><mfenced close=")" open="("><mrow><mfrac><mrow><mi mathvariant="italic">h</mi></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac></mrow></mfenced><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mo>+</mo><mi mathvariant="italic">π</mi><mo>=</mo><mfrac><mrow><mn>122</mn></mrow><mrow><mn>4.00</mn></mrow></mfrac><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mo>+</mo><mi mathvariant="italic">π</mi><mo>=</mo><mn>62</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mo>=</mo><mn>31</mn><mfenced close=")" open="("><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></mfenced></mrow></math></p>
+
+<p>Omdat het faseverschil een geheel veelvoud is van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></math>, is de interferentie constructief.&nbsp;</p>
+
+<hr />
+<p><strong>Deel B</strong></p>
+
+<p>Wanneer het vliegtuig 22m dichter is bij de ontvanger, dan is het faseverschil als volgt:&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">ϕ</mi><mo>=</mo><mfenced close=")" open="("><mrow><mfrac><mrow><mfenced close=")" open="("><mrow><mi mathvariant="italic">h</mi><mo>−</mo><mi mathvariant="italic">y</mi></mrow></mfenced></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac></mrow></mfenced><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mo>+</mo><mi mathvariant="italic">π</mi><mo>=</mo><mfenced close=")" open="("><mrow><mfrac><mrow><mfenced close=")" open="("><mrow><mn>122</mn><mo>−</mo><mn>22</mn></mrow></mfenced></mrow><mrow><mn>4.00</mn></mrow></mfrac></mrow></mfenced><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mo>+</mo><mi mathvariant="italic">π</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>51</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mn>51</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced close=")" open="("><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></mfenced></mrow></math></p>
+
+<p>Omdat het faseverschil een oneven, half geheel veelvoud is van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></math>, is de interferentie destructief.&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Televisie- en radiogolven die weerkaatsen tegen bergen of vliegtuigen, kunnen interfereren met het rechtstreekse signaal van het station.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel A</strong></p>
+
+<p>Welke interferentie treedt er op wanneer 75 MHz-televisiesignalen rechtstreeks een ontvanger bereiken van een station veraf, en ook worden gereflecteerd door een vliegtuig dichtbij, 122 m recht boven de ontvanger? Ga uit van een faseverschuiving van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant="italic">λ</mi></mrow></math>&nbsp;van het signaal na reflectie.&nbsp;</p>
+
+<p>Antwoord:&nbsp;</p>
+
+<1>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<hr>
+<p><strong>Deel B</strong></p>
+
+<p>Welk type interferentie zal er optreden als het vliegtuig zich 22m dichter bij de ontvanger bevindt?&nbsp;</p>
+
+<p>Antwoord:&nbsp;</p>
+
+<2>
+
+<p><strong>&nbsp;</strong></p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Non Permuting Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  1  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p>Constructief</p>  ]]></choice>
+            <choice><![CDATA[  <p>Destructief</p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+
+        <part>
+          <mode>Non Permuting Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  2  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p>Constructief</p>  ]]></choice>
+            <choice><![CDATA[  <p>Destructief</p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+      </parts>
+    </question>
+  </questions>
+
+  <assignments>
+
+    <assignment uid="ade4acef-eac1-4ae1-b341-caf1631897fb" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4">
+      <name><![CDATA[  Oefensessie 6  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <privacy>10</privacy>
+      <category>LESSON</category>
+
+      <sections>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 1  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.2  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="9dcdd1b1-0b0a-4bf7-95d1-8ce13cf1fb1e">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 2  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.1  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="f0b63c5e-d859-40f3-8058-1898ef439ded">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 3  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.2  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="9798c35c-7655-4d46-bba8-50ccf223e3a0">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 4  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.4  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="7801f177-3bde-4b77-b7d3-119acab242bb">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 5  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.5  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="fc8c808e-1565-436e-8038-471eb910f1dd">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 6  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.6//  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="266b30ad-9818-453a-b7c3-8ae604c81ced">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 7  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.8  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="faf77f37-6968-435c-a409-aeddaa697c7a">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 8  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.9  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="c4b0ee03-8fa9-40c9-9ebf-3bb649791d45">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 9  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.47  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="ba6f3cd4-689a-4b5e-b7a2-4464d61f8318">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+      </sections>
+
+      <policies>
+        <mode>8</mode>
+        <reworkable>false</reworkable>
+        <reuseAlgorithmicVariables>false</reuseAlgorithmicVariables>
+        <targeted>false</targeted>
+        <scramble>0</scramble>
+        <printable>false</printable>
+        <preAuthorized>false</preAuthorized>
+        <gradeAuthorizationRequired>false</gradeAuthorizationRequired>
+        <useLockdown>false</useLockdown>
+        <isVisibleAdvancedPolicy>false</isVisibleAdvancedPolicy>
+        <passingScore>-1</passingScore>
+        <showPassFailFeedback>0</showPassFailFeedback>
+        <timeLimit>-1</timeLimit>
+        <quPerPage>1</quPerPage>
+        <presentationMode>0</presentationMode>
+        <completionMode>3</completionMode>
+        <isVisibleTimeRange>false</isVisibleTimeRange>
+        <isVisible>true</isVisible>
+        <forceGrade>false</forceGrade>
+        <allowSubmitLesson>false</allowSubmitLesson>
+        <showLaunchPage>false</showLaunchPage>
+        <showAdaptiveProgress>false</showAdaptiveProgress>
+        <hintsShown>false</hintsShown>
+        <showOneHint>false</showOneHint>
+        <showCurrentGrade>false</showCurrentGrade>
+        <allowResubmitQuestion>true</allowResubmitQuestion>
+        <inSessionGradeReported>true</inSessionGradeReported>
+        <inSessionAnswer>0</inSessionAnswer>
+        <inSessionComment>0</inSessionComment>
+        <gradeReported>true</gradeReported>
+        <showAnswer>2</showAnswer>
+        <showComment>0</showComment>
+        <emailNotified>false</emailNotified>
+        <delayedFeedback>false</delayedFeedback>
+        <maxAttempts>-1</maxAttempts>
+      </policies>
+    </assignment>
+  </assignments>
+
+  <authors>
+
+    <author uid="3ae12f61-0062-4a59-ac93-deaa3686eaee" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Ruben Verschueren  ]]></displayName>
+    </author>
+
+    <author uid="436cb620-def2-4015-9db5-a10e73979e1b" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Johan Van den Bossche  ]]></displayName>
+    </author>
+
+    <author uid="08dc0f11-c46f-4adb-b139-bd0857e997ff" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Floris De Feyter  ]]></displayName>
+    </author>
+  </authors>
+
+  <schools>
+
+    <school uid="7184ca85-f587-410e-b5c5-c427562555e1">
+      <name><![CDATA[  Katholieke Universiteit Leuven  ]]></name>
+    </school>
+  </schools>
+
+  <webResources>
+
+    <folder id="0">
+      <name><![CDATA[  web_folders  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <uri><![CDATA[  web_folders  ]]></uri>
+    </folder>
+  </webResources>
+</courseModule>

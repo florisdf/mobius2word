@@ -1,0 +1,643 @@
+<courseModule>
+
+  <module>
+    <name><![CDATA[  Oefensessie 6 - Extra oefeningen  ]]></name>
+    <description><![CDATA[  Course Module  ]]></description>
+    <uri><![CDATA[  cd6b69b3-5122-4387-a59c-25b25d4bd28e  ]]></uri>
+    <privacy>0</privacy>
+    <autoModule>true</autoModule>
+    <exportedFrom>e3e940ac-5a0e-4e12-9f6b-40d06aac9158</exportedFrom>
+  </module>
+
+  <questions>
+
+    <question uid="24a9726e-8df4-46c6-a928-9360cab6d045" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.13  ]]></name>
+      <comment><![CDATA[  <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="__BASE_URI__image(26).png" style="width: 300px; height: 159px;" /></p>
+
+<p>De hoeken van de interferentiemaxima kunnen berekend worden met de formule <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>sin</mi><mfenced close=")" open="("><mrow><mi mathvariant="italic">θ</mi></mrow></mfenced><mo>=</mo><mi mathvariant="italic">m</mi><mfrac><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></math></p>
+
+<p>Aldus&nbsp;&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">θ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mi>arcsin</mi><mspace width="5px"></mspace><mfenced close=")" open="("><mrow><mn>1.</mn><mfrac><mrow><mspace width="5px"></mspace><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mi>arcsin</mi><mfenced close=")" open="("><mrow><mfrac><mrow><mn>544E−9</mn></mrow><mrow><mn>1E−3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>5.44E−4</mn></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">θ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mi>arcsin</mi><mspace width="5px"></mspace><mfenced close=")" open="("><mrow><mn>2.</mn><mfrac><mrow><mspace width="5px"></mspace><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mi>arcsin</mi><mfenced close=")" open="("><mrow><mn>2.</mn><mfrac><mrow><mn>544E−9</mn></mrow><mrow><mn>1E−3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mn>10.88E−4</mn></mrow></math></p>
+
+<p>waaruit dan volgt dat&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>$l</mn><mo>.</mo><mi>tan</mi><mfenced close=")" open="("><mrow><mn>$theta1</mn></mrow></mfenced><mo>=</mo><mn>$x1</mn><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>$l</mn><mo>.</mo><mi>tan</mi><mfenced close=")" open="("><mrow><mn>$theta2</mn></mrow></mfenced><mo>=</mo><mn>$x2</mn><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <hints>
+        <hint>
+          <text><![CDATA[  <p>Bereken via formule 34.2a de hoeken voorgesteld in de figuur &nbsp;</p>
+
+<p><img src="__BASE_URI__image(26).png" style="width: 250px; height: 205px;" /></p>  ]]></text>
+          <name><![CDATA[  hint 1  ]]></name>
+          <description><![CDATA[  IMPORTED HINT  ]]></description>
+          <penalty>0.0</penalty>
+        </hint>
+      </hints>
+      <algorithm><![CDATA[  $l=decimal(1,range(3,6,0.1));
+$theta1 = arcsin(544E-9/1E-3);
+$theta2 = arcsin(2*544E-9/1E-3);
+$x1 = $l*tan($theta1);
+$x2= $l*tan($theta2);  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Twee nauwe spleten op een afstand van 1,0 mm van&nbsp;elkaar worden verlicht door licht van 544 nm. Bepaal de&nbsp;afstanden x<sub>1</sub>&nbsp;en x<sub>2</sub>&nbsp;op een scherm&nbsp;op een afstand l = $l&nbsp;m van de spleten.</p>
+
+<p><img alt="" src="__BASE_URI__image(25).png" style="width: 300px; height: 131px;"></p>
+
+<p>&nbsp;</p>
+
+<p>x<sub>1</sub>&nbsp;(in m) =&nbsp;<1><span>&nbsp;m</span></p>
+
+<p>x<sub>2</sub>&nbsp;(in m) =&nbsp;<2><span>&nbsp;</span>&nbsp;m</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $x1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>thousands scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $x2  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>thousands scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="3f083b26-dd52-4713-a9e2-9dc63e94d888" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.6  ]]></name>
+      <comment><![CDATA[  <p>De spleetafstand en de afstand van de spleet tot het scherm is dezelfde in beide gevallen. De afstand tussen de heldere franjes kan gezien worden als de positie van de eerste heldere franje (m=1) ten opzichte van de centrale franje. We duiden de de lab laser aan met subscript 1 en de laserpointer met subscript 2. Voor constructieve interferentie&nbsp;is het&nbsp;weglengteverschil een veelvoud van de golflengte, gegeven door vergelijking 34-2a. De&nbsp;locatie op het scherm is gegeven door&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">x</mi><mo>=</mo><mi mathvariant="italic">l</mi><mo>⋅</mo><mi mathvariant="italic">tanθ</mi></mrow></math>, zals in figuur 34-7(c). Voor kleine hoeken geldt:&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">sinθ</mi><mo>≈</mo><mi mathvariant="italic">tanθ</mi><mo>≈</mo><mfrac><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></math>.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">dsinθ</mi><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">dx</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">x</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">λml</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></math></p>
+
+<p>Dus&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>1</mn></mrow></msub><mi mathvariant="italic">l</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></math>&nbsp; en&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>2</mn></mrow></msub><mi mathvariant="italic">l</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>→</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">d</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac><msub><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mn>2</mn></mrow></msub><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mfenced close=")" open="("><mrow><mn>632.8</mn></mrow></mfenced><mo>⋅</mo><mn>$x2</mn></mrow><mrow><mn>$x1</mn></mrow></mfrac><mo>=</mo><mn>$ansa</mn></mrow></math>&nbsp;nm</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $x1=5.0;
+$x2=5.14;
+$ans=632.8*$x2/$x1;
+$ansa= maple("MapleTA:-Builtin:-sig(3,$ans)");  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Van een rode laser van het natuurkundelaboratorium wordt opgegeven dat deze licht van 632.8 nm produceert. Wanneer licht vanuit deze laser op twee dicht opeenstaande spleten valt, heeft het interferentiepatroon dat zich op een muur op enkele meters afstand vormt, heldere franjes die dicht bij het midden van het patroon $x1 mm uit elkaar staan. Wanneer de laser wordt vervangen door een kleine laserpointer, liggen de franjes $x2 mm uit elkaar. Wat is de golflengte van het licht uit de laserpointer?</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;nm</span></p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansa  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="9a63857c-b540-4582-ae2f-589418856dc4" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.8  ]]></name>
+      <comment><![CDATA[  <p>Voor constructieve interferentie is het&nbsp;weglengteverschil een veelvoud van de golflengte, gegeven door vergelijking 34-2a. De locatie op het scherm is gegeven door&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">x</mi><mo>=</mo><mi mathvariant="italic">l</mi><mo>⋅</mo><mi mathvariant="italic">tanθ</mi></mrow></math>, zoals gegeven in figuur 24-7(c). Voor kleine hoeken geldt&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">sinθ</mi><mo>≈</mo><mi mathvariant="italic">tanθ</mi><mo>≈</mo><mfrac><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></math>.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>⋅</mo><mi mathvariant="italic">sinθ</mi><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">dx</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mi mathvariant="italic">d</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">λml</mi></mrow><mrow><mi mathvariant="italic">x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$lambda</mn><mspace width="5px"></mspace><mo>×</mo><mspace width="5px"></mspace><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow></mfenced><mo>⋅</mo><mn>3</mn><mo>⋅</mo><mfenced close=")" open="("><mrow><mn>$l</mn></mrow></mfenced></mrow><mrow><mfenced close=")" open="("><mrow><mn>$x</mn><mspace width="5px"></mspace><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></mfenced></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mn>$ans</mn></mrow></math> m</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $lambda=range(650,690,5);
+$l=decimal(1,range(2.4,2.9,0.1));
+$x=range(35,45,1);
+$ans=$lambda*10^(-9)*3*$l/($x*10^(-3))  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Licht met een golflengte van $lambda nm valt in op twee spleten en produceert op een scherm op een afstand van $l&nbsp;m een interferentiepatroon waarbij de derdeordefranje $x&nbsp;mm van de centrale franje ligt. Wat is de afstand tussen de twee spleten?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Antwoord:&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;</span>m</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="e45a8c7f-6dd4-4a9f-b464-8bad726146ed" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.10  ]]></name>
+      <comment><![CDATA[  <p>Voor constructieve interferentie is het&nbsp;weglengteverschil een veelvoud van de golflengte, gegeven door vergelijking 34-2a. De locatie op het scherm is gegeven door&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">x</mi><mo>=</mo><mi mathvariant="italic">l</mi><mo>⋅</mo><mi mathvariant="italic">tanθ</mi></mrow></math>, zoals gegeven in figuur 34-7(c). Voor kleine hoeken geldt&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">sinθ</mi><mo>≈</mo><mi mathvariant="italic">tanθ</mi><mo>≈</mo><mfrac><mrow><mi mathvariant="italic">x</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></math>.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>⋅</mo><mi mathvariant="italic">sinθ</mi><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">dx</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mi mathvariant="italic">d</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">λml</mi></mrow><mrow><mi mathvariant="italic">x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mfenced close=")" open="("><mrow><mn>633</mn><mspace width="5px"></mspace><mo>×</mo><mspace width="5px"></mspace><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow></mfenced><mo>⋅</mo><mfenced close=")" open="("><mrow><mn>$l</mn></mrow></mfenced></mrow><mrow><mfenced close=")" open="("><mrow><mn>$x</mn><mspace width="5px"></mspace><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>2</mn></mrow></msup></mrow></mfenced></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mn>$ans</mn></mrow></math> m</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $l=decimal(1,range(4,6,0.1));
+$x=range(20,30,1);
+$ans=633*10^(-9)*$l/($x*0.01);  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een natuurkundedocente wil in haar les een demonstratie geven van het dubbelspleetexperiment met behulp van een 633 nm-licht uit een helium-neonlaser. Omdat de collegezaal erg groot is, zal het interferentiepatroon worden geprojecteerd op een wand op $l m van de spleten. Om het goed zichtbaar te laten zijn voor alle studenten in de klas, wil de docente dat de afstand tussen de maxima&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">m</mi><mo>=</mo><mn>0</mn></mrow></math>&nbsp;en&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">m</mi><mo>=</mo><mn>1</mn></mrow></math>, $x&nbsp;cm bedraagt. Welke spleetafstand is vereist om het gewenste interferentiepatroon te produceren?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Antwoord:&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;</span>m</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="69bc1e9f-37f1-4943-96eb-667478cf3037" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.16  ]]></name>
+      <comment><![CDATA[  <p>Om in het midden van het patroon over te gaan&nbsp;van&nbsp;constructieve interferentie naar destructieve interferentie, moet de faseverschuiving veroorzaakt door het plastic gelijk zijn aan een halve golflengte. De golflengte van het licht is korter in plastic dan in de lucht, dus het aantal golflengtes in het plastic moet 1/2 groter zijn dan het aantal golflengtes in dezelfde lucht. Het aantal golflengten in de afstand gelijk aan de dikte gedeeld door de overeenkomstige&nbsp;golflengte.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">N</mi></mrow><mrow><mi mathvariant="italic">plastic</mi></mrow></msub><mo>−</mo><msub><mrow><mi mathvariant="italic">N</mi></mrow><mrow><mi mathvariant="italic">lucht</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">t</mi></mrow><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">plastic</mi></mrow></msub></mrow></mfrac><mo>−</mo><mfrac><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><msub><mrow><mi mathvariant="italic">tn</mi></mrow><mrow><mi mathvariant="italic">plastic</mi></mrow></msub></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac><mo>−</mo><mfrac><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac><mfenced close=")" open="("><mrow><msub><mrow><mi mathvariant="italic">n</mi></mrow><mrow><mi mathvariant="italic">plastic</mi></mrow></msub><mo>−</mo><mn>1</mn></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>→</mo><mspace width="5px"></mspace><mi mathvariant="italic">t</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mn>2</mn><mfenced close=")" open="("><mrow><msub><mrow><mi mathvariant="italic">n</mi></mrow><mrow><mi mathvariant="italic">plastic</mi></mrow></msub><mo>−</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mn>$d</mn></mrow><mrow><mn>2</mn><mfenced close=")" open="("><mrow><mn>1.6</mn><mo>−</mo><mn>1</mn></mrow></mfenced></mrow></mfrac><mo>=</mo><mn>$ansa</mn></mrow></math>&nbsp;nm</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $g=range(590,680,10);
+$ans=$g/(2*0.6);
+$ansa = maple("MapleTA:-Builtin:-sig(3,$ans)");  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een zeer dun blad kunststof (<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">n</mi><mo>=</mo><mn>1.60</mn></mrow></math>) bedekt één spleet van een dubbelspleetapperaat dat wordt verlicht door licht van $g&nbsp;nm. Het middelste punt op het scherm is geen maximum, maar juist donker. Wat is de (minimale) dikte van de kunststof?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">t</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;</span>nm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansa  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="f8f33441-856e-4e9e-9f86-ecce6273c8b6" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.3  ]]></name>
+      <comment><![CDATA[  <p>Voor constructieve interferentie&nbsp;is het weglengteverschil&nbsp;een veelvoud van de golflengte, gegeven door vergelijking&nbsp;34-2a. Pas dit toe op de derde orde.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>⋅</mo><mi mathvariant="italic">sinθ</mi><mo>=</mo><mi mathvariant="italic">mλ</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">d</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">sinθ</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>3</mn><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$d</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow></mfenced></mrow><mrow><mi>sin</mi><mfenced close=")" open="("><mrow><mn>$t</mn></mrow></mfenced><mspace width="5px"></mspace></mrow></mfrac><mo>=</mo><mn>$ans</mn></mrow></math>&nbsp;m</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $d=range(540,600,10);
+$t=range(25,35,1);
+$ans=3*$d*10^(-9)/sin($t*pi/180)  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Wanneer het licht door twee nauwe spleten valt, wordt de derde ordefranje van $d nm-licht waargenomen onder een hoek van $t °. Wat is de afstand tussen de spleten?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Antwoord:&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>=</mo></mrow></math><1><span>&nbsp;</span>m.&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+  </questions>
+
+  <assignments>
+
+    <assignment uid="cd6b69b3-5122-4387-a59c-25b25d4bd28e" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff">
+      <name><![CDATA[  Oefensessie 6 - Extra oefeningen  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <privacy>10</privacy>
+      <category>LESSON</category>
+
+      <sections>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 1  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.3  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="f8f33441-856e-4e9e-9f86-ecce6273c8b6">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 2  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.6  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="3f083b26-dd52-4713-a9e2-9dc63e94d888">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 3  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.8  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="9a63857c-b540-4582-ae2f-589418856dc4">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 4  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.10  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="e45a8c7f-6dd4-4a9f-b464-8bad726146ed">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 5  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.16  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="69bc1e9f-37f1-4943-96eb-667478cf3037">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 6  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.13  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="24a9726e-8df4-46c6-a928-9360cab6d045">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+      </sections>
+
+      <policies>
+        <mode>8</mode>
+        <reworkable>false</reworkable>
+        <reuseAlgorithmicVariables>false</reuseAlgorithmicVariables>
+        <targeted>false</targeted>
+        <scramble>0</scramble>
+        <printable>false</printable>
+        <preAuthorized>false</preAuthorized>
+        <gradeAuthorizationRequired>false</gradeAuthorizationRequired>
+        <useLockdown>false</useLockdown>
+        <isVisibleAdvancedPolicy>false</isVisibleAdvancedPolicy>
+        <passingScore>-1</passingScore>
+        <showPassFailFeedback>0</showPassFailFeedback>
+        <timeLimit>-1</timeLimit>
+        <quPerPage>1</quPerPage>
+        <presentationMode>0</presentationMode>
+        <completionMode>3</completionMode>
+        <isVisibleTimeRange>false</isVisibleTimeRange>
+        <isVisible>true</isVisible>
+        <forceGrade>false</forceGrade>
+        <allowSubmitLesson>false</allowSubmitLesson>
+        <showLaunchPage>false</showLaunchPage>
+        <showAdaptiveProgress>false</showAdaptiveProgress>
+        <hintsShown>false</hintsShown>
+        <showOneHint>false</showOneHint>
+        <showCurrentGrade>false</showCurrentGrade>
+        <allowResubmitQuestion>true</allowResubmitQuestion>
+        <inSessionGradeReported>true</inSessionGradeReported>
+        <inSessionAnswer>0</inSessionAnswer>
+        <inSessionComment>0</inSessionComment>
+        <gradeReported>true</gradeReported>
+        <showAnswer>2</showAnswer>
+        <showComment>0</showComment>
+        <emailNotified>false</emailNotified>
+        <delayedFeedback>false</delayedFeedback>
+        <maxAttempts>-1</maxAttempts>
+      </policies>
+    </assignment>
+  </assignments>
+
+  <authors>
+
+    <author uid="436cb620-def2-4015-9db5-a10e73979e1b" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Johan Van den Bossche  ]]></displayName>
+    </author>
+  </authors>
+
+  <schools>
+
+    <school uid="7184ca85-f587-410e-b5c5-c427562555e1">
+      <name><![CDATA[  Katholieke Universiteit Leuven  ]]></name>
+    </school>
+  </schools>
+
+  <webResources>
+
+    <folder id="0">
+      <name><![CDATA[  web_folders  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <uri><![CDATA[  web_folders  ]]></uri>
+    </folder>
+  </webResources>
+</courseModule>

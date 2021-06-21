@@ -1,0 +1,988 @@
+<courseModule>
+
+  <module>
+    <name><![CDATA[  Oefensessie 4 - extra oefeningen  ]]></name>
+    <description><![CDATA[  Course Module  ]]></description>
+    <uri><![CDATA[  fe95d9d9-d14d-4445-87be-2af89744dbb4  ]]></uri>
+    <privacy>0</privacy>
+    <autoModule>true</autoModule>
+    <exportedFrom>e3e940ac-5a0e-4e12-9f6b-40d06aac9158</exportedFrom>
+  </module>
+
+  <questions>
+
+    <question uid="3aea94a9-d15d-450c-8024-c255e7adae6d" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  Problem 16.35  ]]></name>
+      <comment><![CDATA[  <p><strong>Part A</strong></p>
+
+<p>Als de buis aan &eacute;&eacute;n uiteinde is gesloten, zijn alleen de oneven harmonische frequenties aanwezig en worden deze gegeven door</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mi mathvariant="italic">n</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">nv</mi></mrow><mrow><mn>4</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi mathvariant="italic">nf</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>,</mo><mi mathvariant="italic">n</mi><mspace width="5px"></mspace><mo>=</mo><mn>1</mn><mo>,</mo><mspace width="5px"></mspace><mn>3</mn><mo>,</mo><mspace width="5px"></mspace><mn>5</mn><mo>,</mo><mspace width="5px"></mspace><mo>..</mo><mo>.</mo></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>4</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>343</mn></mrow><mrow><mn>4</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw1</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part B</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>3</mn><mo>⋅</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">v</mi></mrow><mrow><mn>4</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mo>⋅</mo><mn>343</mn></mrow><mrow><mn>4</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw2</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part C</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>5</mn></mrow></msub><mo>=</mo><mn>5</mn><mo>⋅</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>5</mn><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">v</mi></mrow><mrow><mn>4</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>5</mn><mo>⋅</mo><mn>343</mn></mrow><mrow><mn>4</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw3</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part D</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>7</mn></mrow></msub><mo>=</mo><mn>7</mn><mo>⋅</mo><mspace width="5px"></mspace><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>7</mn><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">v</mi></mrow><mrow><mn>4</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>7</mn><mo>⋅</mo><mn>343</mn></mrow><mrow><mn>4</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw4</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part E</strong></p>
+
+<p>Als de pijp aan beide uiteinden open is, zijn alle harmonische frequenties aanwezig en worden ze gegeven door</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mi mathvariant="italic">n</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">nv</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi mathvariant="italic">nf</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>343</mn></mrow><mrow><mn>2</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw5</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part F</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>⋅</mo><mn>343</mn></mrow><mrow><mn>2</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw6</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part G</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>3</mn><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>3</mn><mo>⋅</mo><mn>343</mn></mrow><mrow><mn>2</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw7</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>
+
+<hr />
+<p><strong>Part H</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>4</mn><mo>⋅</mo><mspace width="5px"></mspace><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">L</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn><mo>⋅</mo><mn>343</mn></mrow><mrow><mn>2</mn><mo>⋅</mo><mn>$l</mn></mrow></mfrac><mo>=</mo><mn>$antw8</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi></mrow></math></p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $ll=decimal(1,range(50,120,0.1));
+$l=$ll/100;
+
+$antw1= 343/(4*$l);
+
+$antw2= 343*3/(4*$l);
+
+$antw3= 343*5/(4*$l);
+
+$antw4= 343*7/(4*$l);
+
+$antw5= 343/(2*$l);
+
+$antw6= 343*2/(2*$l);
+
+$antw7= 343*3/(2*$l);
+
+$antw8= 343*4/(2*$l);  ]]></algorithm>
+      <info><![CDATA[  Bron=Gianc;
+  Campus=G;
+  Niveau	=A;  ]]></info>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>&nbsp;</p>
+
+<p>Een orgelpijp is $ll cm lang. Bepaal de grondfrequentie en de eerste twee hoorbare boventonen als de pijp. De temperatuur is 20°C.</p>
+
+<hr>
+<p><strong>Eerste geval: de orgelpijp is open één kant en gesloten aan de andere kant</strong></p>
+
+<p>Bepaal de grondtoon.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<1>&nbsp;Hz</p>
+
+<p>&nbsp;</p>
+
+<p>Bepaal de eerste boventoon.</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<2>&nbsp;Hz</p>
+
+<p>&nbsp;</p>
+
+<p>Bepaal de tweede boventoon&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<3>&nbsp;Hz</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Tweede geval: de orgelpijn is aan beide uiteinden open is</strong></p>
+
+<p>Bepaal de grondtoon</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<4>&nbsp;Hz</p>
+
+<p>&nbsp;</p>
+
+<p>Bepaal de eerste boventoon</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<5>&nbsp;Hz</p>
+
+<p>&nbsp;</p>
+
+<p>Bepaal de tweede boventoon&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<6>&nbsp;Hz</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1,1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw2  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw3  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw5  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw6  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw7  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="ff446964-441c-4d10-8f5a-c9f891146309" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  Problem 16.46  ]]></name>
+      <comment><![CDATA[  <p><strong>Part A</strong></p>
+
+<p>Het verschil tussen opeenvolgende boventonen voor een open pijp is de grondfrequentie.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mspace width="5px"></mspace><mn>$f2</mn><mo>−</mo><mn>$f1</mn><mo>=</mo><mn>$antw1</mn></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<hr />
+<p><strong>Part B</strong></p>
+
+<p>De grondfrequentie wordt gegeven door <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></math>.&nbsp; Los dit op voor de geluidssnelheid.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">v</mi><mo>=</mo><mn>2</mn><mspace width="5px"></mspace><mo>⋅</mo><mi mathvariant="italic">l</mi><mo>⋅</mo><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>2</mn><mo>⋅</mo><mn>$l</mn><mspace width="5px"></mspace><mo>⋅</mo><mspace width="5px"></mspace><mn>$antw1</mn><mo>=</mo><mn>$antw2</mn></mrow></math>&nbsp;<strong>m/s</strong></p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $f1=range(200,280,1);
+$f2=range(281,400,1);
+$l=decimal(2,range(1.2,2.2,0.01));
+
+$antw1= $f2-$f1;
+$antw2 = 2*$l*($antw1);  ]]></algorithm>
+      <info><![CDATA[  Bron=Gianc;
+  Campus=G;
+  Niveau	=II;  ]]></info>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een uniforme smalle buis van $l&nbsp;m lang is aan beide uiteinden open. Hij resoneert bij twee opeenvolgende harmonischen met frequenties $f1&nbsp;Hz en $f2&nbsp;Hz.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Part A</strong></p>
+
+<p>Wat is de frequentie van de grondtoon?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;Hz</span></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Part B</strong></p>
+
+<p>Wat is de geluidssnelheid in het gas in de buis?</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">v</mi><mo>=</mo></mrow></math>&nbsp;<2><span>&nbsp;</span>m/s</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw2  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="163e5f47-8934-4806-9d0c-d27ca2265348" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  2.25  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een snaar van een viool heeft een lengte van 33 cm. De massa per lengte-eenheid van deze snaar is 0,353 g/m. Onder welke trekkracht moet ze staan opdat haar grondfrequentie ( mi ) 651,76 Hz zou bedragen ?</p>
+
+<p>&nbsp;</p>
+
+<p>T = <1><span> </span>N</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  65.3  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="b8e0e177-3f4c-4ede-b13a-8035387bddac" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  Problem 16.48  ]]></name>
+      <comment><![CDATA[  <p>&nbsp;</p>
+
+<p><strong>Part A</strong></p>
+
+<p>De harmonischen voor de open pijp zijn <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">f</mi></mrow><mrow><mi mathvariant="italic">n</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi mathvariant="italic">nv</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></math>; Om hoorbaar te zijn, moeten ze lager zijn dan 20 kHz</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mi mathvariant="italic">nv</mi></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">l</mi></mrow></mfrac><mo>&lt;</mo><mspace width="5px"></mspace><mn>20000</mn><mspace width="5px"></mspace><mi mathvariant="italic">Hz</mi><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mi mathvariant="italic">n</mi><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mn>2</mn><mo>⋅</mo><mn>2.48</mn><mo>⋅</mo><mn>20000</mn></mrow><mrow><mn>343</mn></mrow></mfrac><mo>=</mo><mn>289.2</mn></mrow></math></p>
+
+<p>Aangezien er 289 harmonischen zijn, zijn er 288 boventonen.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <info><![CDATA[  Bron=Gianc;
+  Campus=G;
+  Niveau	=II;  ]]></info>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Hoeveel boventonen zijn aanwezig binnen het hoorbare bereik voor een 2.48 m lange orgelpijp bij 20° C als deze aan beide kanten open is. v<sub>geluid</sub> in lucht = 343 m/s.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">Antwoord</mi><mo>:</mo></mrow></math>&nbsp;<1><span>&nbsp;</span></p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  288  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="d21e5db9-80bd-45bb-8357-c4ca790cec82" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  2.30  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een pianosnaar met een lengte van 1,25 m is opgespannen tussen twee vaste punten. De grondfrequentie van de snaar is f<sub>o</sub>.</p>
+
+<p>Gegevens: f<sub>o</sub> = 440 Hz ; A = 0,005 m ; x = 0,417 m.</p>
+
+<p>&nbsp;</p>
+
+<p>a) Bereken de voortplantingssnelheid van de transversale golven in de snaar.</p>
+
+<p>&nbsp;v = <1><span> </span>m/s</p>
+
+<p><br>
+b) Bereken de maximale snelheid van een deeltje van de snaar gelegen op een afstand x vanaf één van de bevestigingspunten van de snaar.</p>
+
+<p>&nbsp;v<sub>max</sub> = <2> m/s</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  1100  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  23.95  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="69703396-0044-41a2-aea7-24580a6812c8" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  Problem 16.53  ]]></name>
+      <comment><![CDATA[  <p>De slagperiode is $b seconden, dus de slagfrequentie is het omgekeerde daarvan,&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>$b</mn></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mn>$antw1</mn></mrow></math>&nbsp;Hz. De andere snaar is er dus met een frequentie van &plusmn; $antw1&nbsp;Hz vanaf. De zweving vertelt de tuner niet of de tweede snaar te hoog of te laag is.</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $b=decimal(1,range(2,6,0.1));
+
+$antw1=1/$b;  ]]></algorithm>
+      <info><![CDATA[  Bron=Gianc;
+  Campus=G;
+  Niveau	=I;  ]]></info>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een pianostemmer hoort bij het stemmen van twee snaren, waarvan er één een toon van 370 Hz heeft, om de $b&nbsp;s een zweving.</p>
+
+<p>&nbsp;</p>
+
+<p>Wat is het frequentieverschil met de andere snaar?</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">Δf</mi><mo>=</mo></mrow></math>&nbsp;<1>&nbsp;Hz</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antw1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="f4364bfc-3271-4d91-b684-90b60fd2a424" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  Problem 16.90  ]]></name>
+      <comment><![CDATA[  <p>Het apparaat is een gesloten buis. Het waterpeil is het gesloten uiteinde, en dus een knooppunt van luchtverplaatsing. Naarmate het waterniveau zakt, komt de afstand van het ene resonantieniveau tot het volgende overeen met de afstand tussen aangrenzende knooppunten, die een halve golflengte is.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="__BASE_URI__Golven_Giancoli/Problem%2016_90(1).PNG" style="width: 358px; height: 72px;" /></p>  ]]></comment>
+      <editing>useHTML</editing>
+      <info><![CDATA[  Bron=Gianc;
+  Campus=G;
+  Niveau	=A;  ]]></info>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een stemvork wordt in trilling gebracht boven een verticale met water gevulde buis. Men laat de waterspiegel langzaam dalen. Ondertussen kan men de lucht in de buis boven de waterspiegel horen resoneren met de stemvork wanneer de afstand van de opening van de buis tot de waterspiegel 0,125 m is, en opnieuw bij 0,395 m. v<sub>geluid </sub>in lucht = 343 m/s.</p>
+
+<p><img alt="" src="__BASE_URI__Golven_Giancoli/Problem%2016_90.PNG" style="width: 150px; height: 164px;"></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Wat is de frequentie van de stemvork?</p>
+
+<p>(T= 20°C°)</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">f</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;Hz</span></p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  635  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+  </questions>
+
+  <assignments>
+
+    <assignment uid="fe95d9d9-d14d-4445-87be-2af89744dbb4" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4">
+      <name><![CDATA[  Oefensessie 4 - extra oefeningen  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <privacy>10</privacy>
+      <category>LESSON</category>
+
+      <sections>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 1  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  2.25  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="163e5f47-8934-4806-9d0c-d27ca2265348">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 2  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  2.30  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="d21e5db9-80bd-45bb-8357-c4ca790cec82">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 3  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  Problem 16.35  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="3aea94a9-d15d-450c-8024-c255e7adae6d">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 4  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  Problem 16.46  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="ff446964-441c-4d10-8f5a-c9f891146309">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 5  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  Problem 16.48  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="b8e0e177-3f4c-4ede-b13a-8035387bddac">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 6  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  Problem 16.53  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="69703396-0044-41a2-aea7-24580a6812c8">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 7  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  Problem 16.90  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="f4364bfc-3271-4d91-b684-90b60fd2a424">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+      </sections>
+
+      <policies>
+        <mode>8</mode>
+        <reworkable>false</reworkable>
+        <reuseAlgorithmicVariables>false</reuseAlgorithmicVariables>
+        <targeted>false</targeted>
+        <scramble>0</scramble>
+        <printable>false</printable>
+        <preAuthorized>false</preAuthorized>
+        <gradeAuthorizationRequired>false</gradeAuthorizationRequired>
+        <useLockdown>false</useLockdown>
+        <isVisibleAdvancedPolicy>false</isVisibleAdvancedPolicy>
+        <passingScore>-1</passingScore>
+        <showPassFailFeedback>0</showPassFailFeedback>
+        <timeLimit>-1</timeLimit>
+        <quPerPage>1</quPerPage>
+        <presentationMode>0</presentationMode>
+        <completionMode>3</completionMode>
+        <isVisibleTimeRange>false</isVisibleTimeRange>
+        <isVisible>true</isVisible>
+        <forceGrade>false</forceGrade>
+        <allowSubmitLesson>false</allowSubmitLesson>
+        <showLaunchPage>false</showLaunchPage>
+        <showAdaptiveProgress>false</showAdaptiveProgress>
+        <hintsShown>false</hintsShown>
+        <showOneHint>false</showOneHint>
+        <showCurrentGrade>false</showCurrentGrade>
+        <allowResubmitQuestion>true</allowResubmitQuestion>
+        <inSessionGradeReported>true</inSessionGradeReported>
+        <inSessionAnswer>0</inSessionAnswer>
+        <inSessionComment>0</inSessionComment>
+        <gradeReported>true</gradeReported>
+        <showAnswer>2</showAnswer>
+        <showComment>0</showComment>
+        <emailNotified>false</emailNotified>
+        <delayedFeedback>false</delayedFeedback>
+        <maxAttempts>-1</maxAttempts>
+      </policies>
+    </assignment>
+  </assignments>
+
+  <authors>
+
+    <author uid="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Els Koppen  ]]></displayName>
+    </author>
+
+    <author uid="3ae12f61-0062-4a59-ac93-deaa3686eaee" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Ruben Verschueren  ]]></displayName>
+    </author>
+
+    <author uid="436cb620-def2-4015-9db5-a10e73979e1b" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Johan Van den Bossche  ]]></displayName>
+    </author>
+  </authors>
+
+  <schools>
+
+    <school uid="7184ca85-f587-410e-b5c5-c427562555e1">
+      <name><![CDATA[  Katholieke Universiteit Leuven  ]]></name>
+    </school>
+  </schools>
+
+  <webResources>
+
+    <folder id="0">
+      <name><![CDATA[  web_folders/Golven_Giancoli  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <uri><![CDATA[  web_folders/Golven_Giancoli  ]]></uri>
+    </folder>
+  </webResources>
+</courseModule>

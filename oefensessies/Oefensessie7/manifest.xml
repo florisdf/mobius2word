@@ -1,0 +1,1140 @@
+<courseModule>
+
+  <module>
+    <name><![CDATA[  Oefensessie 7  ]]></name>
+    <description><![CDATA[  Course Module  ]]></description>
+    <uri><![CDATA[  7e18c117-b02e-4218-a307-59dfe125de65  ]]></uri>
+    <privacy>0</privacy>
+    <autoModule>true</autoModule>
+    <exportedFrom>e3e940ac-5a0e-4e12-9f6b-40d06aac9158</exportedFrom>
+  </module>
+
+  <questions>
+
+    <question uid="a1e4a7bc-e39d-40d1-8b50-35d3d587cd9d" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.10  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een dunne laag MgF<sub>2</sub> (n = 1,38) met een dikte van 8,3.10<sup>-5</sup> cm ligt op glas (n = 1,6). Indien wit licht loodrecht invalt op het oppervlak, welke golflengtes worden dan niet weerkaatst ? Geef alleen maar die golflengten die in het zichtbaar gebied liggen, tussen 400 en 700 nm.</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><span></span> = <1><span> , </span><2> , <3> nm</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  417  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  509  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  655  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="d900665e-f005-438c-9746-a92a2dad4fc5" modifiedBy="76c5ef90-82de-4700-9268-74586d04532f" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  35.9  ]]></name>
+      <comment><![CDATA[  <p>We veronderstellen dat de hoek van het eerste minimum gelijk is aan de helft van de hoek tussen de donkere banden. We vullen deze hoek in in&nbsp;vergelijking 35-1 om de spleetbreedte te berekenen.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">θ</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant="italic">Δθ</mi></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">sinθ</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi>D</mi></mrow></mfrac><mspace width="5px" /><mspace width="5px" /><mo>→</mo><mspace width="5px" /><mspace width="5px" /><mi>D</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">sinθ</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>$lambda</mn></mrow><mrow><mi>sin</mi><mfenced close=")" open="("><mrow><mfrac><mrow><mn>$t</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced></mrow></mfrac><mo>=</mo><mn>$ans</mn></mrow></math>&nbsp;nm</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $lambda=range(420,470,5);
+$t=range(45,60,1);
+$ans=$lambda/sin($t/2*pi/180);  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Wanneer blauw licht met een golflengte van $lambda nm op één spleet valt, is de hoekafstand tussen de eerste donkere banden aan weerszijden van het midden gelijk aan $t °. Bepaal de breedte van de spleet.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Antwoord:&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>D</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;</span>nm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="9694e3a0-cbfd-4a10-bece-422c97e14ba8" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.13  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>De optische telescoop op Mount Palomar heeft een diameter van \(5{,}08~\mathrm{m}\). Als men twee voorwerpen op de maan van elkaar wil onderscheiden met licht met een golflengte van \(550~\mathrm{nm}\), wat moet dan de minimale afstand ertussen zijn? De maan is \(3{,}84\cdot 10^5~\mathrm{km}\) van de aarde verwijderd.</p>
+
+<p>&nbsp;</p>
+
+<p>s = <1><span> </span>m</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  51  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="dbdaf292-31d2-4639-b12f-fe576d5d93c7" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  35.43  ]]></name>
+      <comment><![CDATA[  <p>We vinden de hoek van elke &quot;grens&quot;kleur via vergelijking 35-13. Gebruik het feit dat de verplaatsing van het scherm is gegeven door&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">tanθ</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">y</mi></mrow><mrow><mi mathvariant="italic">L</mi></mrow></mfrac></mrow></math>,</p>
+
+<p>met&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">y</mi></mrow></math>&nbsp;de verplaatsing op het scherm van het centrale maximum en&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">L</mi></mrow></math>&nbsp;de afstand van het rooster tot het scherm.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">sinθ</mi><mo>=</mo><mfrac><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></math>&nbsp; &nbsp;en&nbsp; &nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">d</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>610</mn><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">lijnen</mi></mrow><mrow><mi mathvariant="italic">mm</mi></mrow></mfrac></mrow></mfrac><mfenced close=")" open="("><mrow><mfrac><mrow><mn>1</mn><mspace width="5px"></mspace><mi mathvariant="italic">m</mi></mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup><mi mathvariant="italic">mm</mi></mrow></mfrac></mrow></mfenced><mo>=</mo><mfenced close=")" open="("><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6.1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></mrow></mfrac></mrow></mfenced><mi mathvariant="italic">m</mi></mrow></math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">y</mi><mo>=</mo><mi mathvariant="italic">Ltanθ</mi><mo>=</mo><mspace width="5px"></mspace><mi mathvariant="italic">L</mi><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel A</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">I</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mspace width="5px"></mspace><mi mathvariant="italic">L</mi><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">rood</mi></mrow></msub></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced></mrow></mfenced><mspace width="5px"></mspace><mo>−</mo><mspace width="5px"></mspace><mi mathvariant="italic">L</mi><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">violet</mi></mrow></msub></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow></math></p>
+
+<p>&nbsp; &nbsp; &nbsp;&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>=</mo><mfenced close=")" open="("><mrow><mn>0.32</mn></mrow></mfenced><mfenced close="]" open="["><mrow><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><mn>700</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6.1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow></mfenced><mspace width="5px"></mspace><mo>−</mo><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><mn>400</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6.1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow></mfenced></mrow></math></p>
+
+<p>&nbsp; &nbsp; &nbsp;&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>=</mo><mspace width="5px"></mspace><mn>7.06</mn></mrow></math>&nbsp;cm</p>
+
+<hr />
+<p><strong>Deel B</strong></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">I</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mspace width="5px"></mspace><mi mathvariant="italic">L</mi><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">rood</mi></mrow></msub></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced></mrow></mfenced><mspace width="5px"></mspace><mo>−</mo><mspace width="5px"></mspace><mi mathvariant="italic">L</mi><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">mλ</mi></mrow><mrow><mi mathvariant="italic">violet</mi></mrow></msub></mrow><mrow><mi mathvariant="italic">d</mi></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow></math></p>
+
+<p>&nbsp; &nbsp; &nbsp;&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>=</mo><mfenced close=")" open="("><mrow><mn>0.32</mn></mrow></mfenced><mfenced close="]" open="["><mrow><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><mn>2</mn><mo>×</mo><mn>700</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6.1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow></mfenced><mspace width="5px"></mspace><mo>−</mo><mspace width="5px"></mspace><mi>tan</mi><mfenced close=")" open="("><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mfenced close=")" open="("><mrow><mfrac><mrow><mn>2</mn><mo>×</mo><mn>400</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>9</mn></mrow></msup></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6.1</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>5</mn></mrow></msup></mrow></mfrac></mrow></mfrac></mrow></mfenced></mrow></mfenced></mrow></mfenced></mrow></math></p>
+
+<p>&nbsp; &nbsp; &nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>=</mo><mn>34.64</mn></mrow></math>&nbsp;cm</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Wit licht gaat door een buigingsrooster van 610 lijnen/mm. Op de wand op 32 cm afstand verschijnen zichtbare spectra ('regenbogen') van de eerste en tweede orde zoals te zien is in de figuur.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="__BASE_URI__Figure_35_47.jpg" style="width: 300px; height: 275px;"></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Deel A</strong></p>
+
+<p>Bepaal de breedtes&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">l</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></math>&nbsp;en&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">l</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></math>&nbsp;van de twee 'regenbogen' (400 nm tot 700 nm).</p>
+
+<p>Antwoord:&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">l</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;</span>cm</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo></mrow></math>&nbsp;<2><span>&nbsp;cm</span></p>
+
+<hr>
+<p><strong>Deel B</strong></p>
+
+<p>Bij welke orde wordt de 'regenboog' gedispergeerd over een grotere afstand?&nbsp;</p>
+
+<3>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  7.06  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  34.64  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Non Permuting Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  2  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p>De eerste orde regenboog wordt gedispergeerd&nbsp;over een grotere afstand.&nbsp;</p>  ]]></choice>
+            <choice><![CDATA[  <p>De tweede orde regenboog wordt gedispergeerd&nbsp;over een grotere afstand.&nbsp;</p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="43b9024b-25b9-4908-ad10-36c8a79d9774" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.12  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een dunne oliefilm (n = 1,22) met een uniforme dikte van 450 nm drijft op water (n = 1,33). Wit licht valt loodrecht in op de oliefilm. Welke golflengten van het weerkaatste licht worden (a) versterkt ; (b) uitgedoofd</p>
+
+<p>&nbsp;</p>
+
+<p>(a) <span></span><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><span>​</span> = <1><span> nm</span></p>
+
+<p><span>(b)&nbsp;</span> <span>​</span><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math><span>​</span> <span> = </span><2> nm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  549  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  439  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="95d0c6a5-3bdc-481b-9818-3f71e0e6917e" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.14  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een spionagesatelliet beweegt in een baan op 200 km hoogte en is uitgerust met een spiegel met een diameter van 50 cm. Wat moet de minimale afstand zijn tussen twee voorwerpen op het aardoppervlak opdat ze door de satelliet nog onderscheiden zouden kunnen worden ? Neem <math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math> = 400 nm en veronderstel dat diffractie de enige beperkende factor is voor het oplossend vermogen.</p>
+
+<p>&nbsp;s = <1><span> m </span></p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  0.2  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="18a953dd-b36d-44d2-8dc7-d4e4a588b105" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.28  ]]></name>
+      <comment><![CDATA[  <p>Als het licht loodrecht invalt, dan zal de&nbsp;gereflecteerd lichtstraal aan de lucht-olie grenslaag een faseverandering van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">π</mi></mrow></math>&nbsp;ondergaan. Aan de olie-water grenslaag is er geen faseverondering bij de&nbsp; reflectie.</p>
+
+<p>De voorwaarde voor constructieve interferentie is dan</p>
+
+<p>&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mo>→</mo><mspace width="5px"></mspace><mi mathvariant="italic">t</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced close=")" open="("><mrow><mi mathvariant="italic">m</mi><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">olie</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfenced close=")" open="("><mrow><mi mathvariant="italic">m</mi><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mspace width="5px"></mspace><mspace width="5px"></mspace><mfrac><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><msub><mrow><mi mathvariant="italic">n</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p>Voor&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mo>=</mo><mn>650</mn></mrow></math>&nbsp;nm zijn de&nbsp;mogelijke dikte is als volgt:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>650</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfrac><mrow><mfenced close=")" open="("><mrow><mi mathvariant="italic">m</mi><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mn>650</mn></mrow><mrow><mn>1.5</mn></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mn>108</mn><mo>,</mo><mspace width="5px"></mspace><mn>325</mn><mo>,</mo><mspace width="5px"></mspace><mn>542</mn><mo>,</mo><mspace width="5px"></mspace><mo>..</mo><mo>.</mo></mrow></math>&nbsp;nm</p>
+
+<p>&nbsp;</p>
+
+<p>Voor&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mo>=</mo><mn>390</mn></mrow></math>&nbsp;nm zijn de mogelijke dikte is als volgt:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">t</mi></mrow><mrow><mn>390</mn></mrow></msub><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mfrac><mrow><mfenced close=")" open="("><mrow><mi mathvariant="italic">m</mi><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfenced><mn>390</mn></mrow><mrow><mn>1.5</mn></mrow></mfrac><mo>=</mo><mspace width="5px"></mspace><mn>65</mn><mo>,</mo><mspace width="5px"></mspace><mn>195</mn><mo>,</mo><mspace width="5px"></mspace><mn>325</mn><mo>,</mo><mspace width="5px"></mspace><mn>455</mn></mrow></math>&nbsp;nm</p>
+
+<p>&nbsp;</p>
+
+<p>De minimum dikte van de olie moet dus 325 nm zijn.&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een dunne oliefilm (<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">n</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>1.50</mn></mrow></math>) drijft op water (<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">n</mi></mrow><mrow><mi mathvariant="italic">w</mi></mrow></msub><mo>=</mo><mn>1.33</mn></mrow></math>). Wanneer een bundel wit licht deze film raakt bij loodrechte inval vanuit de lucht, zijn de enige versterkte gereflecteerde kleuren rood (650 nm) en violet (390 nm). Leid uit deze informatie de (minimum)dikte&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">t</mi></mrow></math>&nbsp;van de olielaag af.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Antwoord:&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">t</mi><mo>=</mo></mrow></math>&nbsp;<1><span>&nbsp;</span> nm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  325  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="bcb7f5aa-ada2-48e9-b42e-a7ce9d5a7e79" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  3.15  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.100000381469727</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Laserlicht met een golflengte van 680 nm valt loodrecht in op een spleet met een breedte van 0,06 mm. We bekijken het patroon dat afgebeeld wordt op een scherm dat 1,8 m achter de spleet staat.</p>
+
+<p><br>
+a) Wat is de breedte van de centrale lichtvlek ?</p>
+
+<p>&nbsp;breedte = <1><span> </span>cm</p>
+
+<p><br>
+b) Hoe groot is de afstand op het scherm tussen het minimum van eerste en tweede orde?</p>
+
+<p>&nbsp;x = <2> cm</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  4.08  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  2.04  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="47dbe334-580b-45df-9e92-dc80454e084f" modifiedBy="08dc0f11-c46f-4adb-b139-bd0857e997ff" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  34.23 v2  ]]></name>
+      <comment><![CDATA[  <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>strap&nbsp;1</strong></p>
+
+<p>Bij overgang van lucht naar de zeepfilm ga je over van een lagere brekingsindex naar een hogere brekingsindex, dus is er een fasesprong van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>π</mi></mrow></math>.</p>
+
+<p>Bij overgang van zeepfilm naar lucht ga je over naar een lagere brekingsindex, dus is er geen fasesprong.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>stap 2</strong></p>
+
+<p>Er is &eacute;&eacute;n fasesprong en de formule voor constructieve interferentie is dus&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">t</mi><mo>=</mo><mfenced close=")" open="("><mrow><mi mathvariant="italic">m</mi><mo>+</mo><mn>0.5</mn></mrow></mfenced><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">film</mi></mrow></msub></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p><strong>deel 3</strong></p>
+
+<p>De langste golflengte (gemeten in de film) vinden we dan voor m=0.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">film</mi></mrow></msub><mo>=</mo><mn>4</mn><mspace width="5px"></mspace><mi mathvariant="italic">t</mi></mrow></math></p>
+
+<p>De langste golflengte (gemeten in lucht is dan)</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">lucht</mi></mrow></msub><mo>=</mo><msub><mrow><mi mathvariant="italic">n</mi></mrow><mrow><mi mathvariant="italic">film</mi></mrow></msub><mn>.4</mn><mspace width="5px"></mspace><mi mathvariant="italic">t</mi><mo>=</mo><mn>1.32</mn><mo>⋅</mo><mn>4</mn><mo>⋅</mo><mn>$t</mn><mo>=</mo><mn>$a</mn><mspace width="5px"></mspace><mi mathvariant="italic">nm</mi></mrow></math></p>  ]]></comment>
+      <editing>useHTML</editing>
+      <hints>
+        <hint>
+          <text><![CDATA[  <p>bekijk voorbeeld 34.7</p>  ]]></text>
+          <name><![CDATA[  hint 1  ]]></name>
+          <description><![CDATA[  IMPORTED HINT  ]]></description>
+          <penalty>0.0</penalty>
+        </hint>
+      </hints>
+      <algorithm><![CDATA[  $t=range(80,120,1);
+$a=1.32*4*$t;  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>We bekijken het licht dat gereflecteerd wordt aan&nbsp;een&nbsp;zeepbel die $t nm dik is. Neem aan dat n<sub>zeep</sub>= 1.32.</p>
+
+<p>Wat is dan de langste golflengte (in nm, golflengte gemeten in lucht)&nbsp; waarvoor er constructieve interferentie is?</p>
+
+<p><img alt="" src="__BASE_URI__image(1).png" style="width: 250px; height: 181px;"></p>
+
+<p>&nbsp;</p>
+
+<p><u><strong>Stap 1</strong></u>: bepaal de fasesprongen aan de grensvlakken</p>
+
+<p>Aan het bovenste grensvlak lucht/film is er&nbsp;&nbsp;<1><span>&nbsp;.</span></p>
+
+<p><span>Aan het onderste grensvlak film/lucht is er&nbsp;<2><span>&nbsp;</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><strong>stap 2</strong></p>
+
+<p>De formule die bepaalt voor welke golflengte er constructieve interferentie optreedt is</p>
+
+<3>
+
+<p>&nbsp;</p>
+
+<p><strong>stap 3</strong></p>
+
+<p>De langste golflengte (in nm, golflengte gemeten in lucht)&nbsp; waarvoor er constructieve interferentie is</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">lucht</mi></mrow></msub><mo>=</mo></mrow></math>&nbsp;<4><span>&nbsp; nm</span></p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>List</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <display permute="true">menu</display>
+          <width>0.0</width>
+          <grader>exact</grader>
+          <answers>
+            <answer><![CDATA[  geen fasesprong  ]]></answer>
+            <answer><![CDATA[  een fasesprong gelijk aan 180°  ]]></answer>
+          </answers>
+          <credits>
+            <credit>0.0</credit>
+            <credit>1.0</credit>
+          </credits>
+        </part>
+
+        <part>
+          <mode>List</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <display permute="false">menu</display>
+          <width>0.0</width>
+          <grader>exact</grader>
+          <answers>
+            <answer><![CDATA[  geen fasesprong  ]]></answer>
+            <answer><![CDATA[  een fasesprong gelijk aan 180°  ]]></answer>
+          </answers>
+          <credits>
+            <credit>1.0</credit>
+            <credit>0.0</credit>
+          </credits>
+        </part>
+
+        <part>
+          <mode>Non Permuting Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  2  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">t</mi><mo>=</mo><mi mathvariant="italic">m</mi><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">film</mi></mrow></msub></mrow></math></p>  ]]></choice>
+            <choice><![CDATA[  <p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>2</mn><mspace width="5px" /><mi mathvariant="italic">t</mi><mo>=</mo><mfenced close=")" open="("><mrow><mi mathvariant="italic">m</mi><mo>+</mo><mn>0.5</mn></mrow></mfenced><mspace width="5px" /><msub><mrow><mi mathvariant="italic">λ</mi></mrow><mrow><mi mathvariant="italic">film</mi></mrow></msub></mrow></math></p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $a  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>thousands scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+  </questions>
+
+  <assignments>
+
+    <assignment uid="7e18c117-b02e-4218-a307-59dfe125de65" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4">
+      <name><![CDATA[  Oefensessie 7  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <privacy>10</privacy>
+      <category>LESSON</category>
+
+      <sections>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 1  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.23 v2  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="47dbe334-580b-45df-9e92-dc80454e084f">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 2  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.10  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="a1e4a7bc-e39d-40d1-8b50-35d3d587cd9d">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 3  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.12  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="43b9024b-25b9-4908-ad10-36c8a79d9774">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 4  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  34.28  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="18a953dd-b36d-44d2-8dc7-d4e4a588b105">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 5  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.13  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="9694e3a0-cbfd-4a10-bece-422c97e14ba8">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 6  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.14  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="95d0c6a5-3bdc-481b-9818-3f71e0e6917e">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 7  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  3.15  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="bcb7f5aa-ada2-48e9-b42e-a7ce9d5a7e79">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 8  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  35.9  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="d900665e-f005-438c-9746-a92a2dad4fc5">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 9  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  35.43  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="dbdaf292-31d2-4639-b12f-fe576d5d93c7">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+      </sections>
+
+      <policies>
+        <mode>8</mode>
+        <reworkable>false</reworkable>
+        <reuseAlgorithmicVariables>false</reuseAlgorithmicVariables>
+        <targeted>false</targeted>
+        <scramble>0</scramble>
+        <printable>false</printable>
+        <preAuthorized>false</preAuthorized>
+        <gradeAuthorizationRequired>false</gradeAuthorizationRequired>
+        <useLockdown>false</useLockdown>
+        <isVisibleAdvancedPolicy>false</isVisibleAdvancedPolicy>
+        <passingScore>-1</passingScore>
+        <showPassFailFeedback>0</showPassFailFeedback>
+        <timeLimit>-1</timeLimit>
+        <quPerPage>1</quPerPage>
+        <presentationMode>0</presentationMode>
+        <completionMode>3</completionMode>
+        <isVisibleTimeRange>false</isVisibleTimeRange>
+        <isVisible>true</isVisible>
+        <forceGrade>false</forceGrade>
+        <allowSubmitLesson>false</allowSubmitLesson>
+        <showLaunchPage>false</showLaunchPage>
+        <showAdaptiveProgress>false</showAdaptiveProgress>
+        <hintsShown>false</hintsShown>
+        <showOneHint>false</showOneHint>
+        <showCurrentGrade>false</showCurrentGrade>
+        <allowResubmitQuestion>true</allowResubmitQuestion>
+        <inSessionGradeReported>true</inSessionGradeReported>
+        <inSessionAnswer>0</inSessionAnswer>
+        <inSessionComment>0</inSessionComment>
+        <gradeReported>true</gradeReported>
+        <showAnswer>2</showAnswer>
+        <showComment>0</showComment>
+        <emailNotified>false</emailNotified>
+        <delayedFeedback>false</delayedFeedback>
+        <maxAttempts>-1</maxAttempts>
+      </policies>
+    </assignment>
+  </assignments>
+
+  <authors>
+
+    <author uid="76c5ef90-82de-4700-9268-74586d04532f" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Helene Van den Bossche  ]]></displayName>
+    </author>
+
+    <author uid="3ae12f61-0062-4a59-ac93-deaa3686eaee" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Ruben Verschueren  ]]></displayName>
+    </author>
+
+    <author uid="436cb620-def2-4015-9db5-a10e73979e1b" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Johan Van den Bossche  ]]></displayName>
+    </author>
+
+    <author uid="08dc0f11-c46f-4adb-b139-bd0857e997ff" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Floris De Feyter  ]]></displayName>
+    </author>
+  </authors>
+
+  <schools>
+
+    <school uid="7184ca85-f587-410e-b5c5-c427562555e1">
+      <name><![CDATA[  Katholieke Universiteit Leuven  ]]></name>
+    </school>
+  </schools>
+
+  <webResources>
+
+    <folder id="0">
+      <name><![CDATA[  web_folders  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <uri><![CDATA[  web_folders  ]]></uri>
+    </folder>
+  </webResources>
+</courseModule>

@@ -1,0 +1,840 @@
+<courseModule>
+
+  <module>
+    <name><![CDATA[  Oefensessie 3 - Extra oefeningen  ]]></name>
+    <description><![CDATA[  Course Module  ]]></description>
+    <uri><![CDATA[  d3c16bf7-cb9f-424e-b669-696570d53816  ]]></uri>
+    <privacy>0</privacy>
+    <autoModule>true</autoModule>
+    <exportedFrom>e3e940ac-5a0e-4e12-9f6b-40d06aac9158</exportedFrom>
+  </module>
+
+  <questions>
+
+    <question uid="d2364a9b-052b-419a-98e6-96009d500fdd" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  2.21  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een transversale lopende golf plant zich voort in een snaar.<br>
+a) Bereken de snelheid van de golf als de spankracht 100 N bedraagt en de massa per<br>
+lengte-eenheid van de snaar 10 g/m is.</p>
+
+<p>v = <1><span> </span>m/s</p>
+
+<p><br>
+b) Bereken de massa per lengte-eenheid van de snaar als haar doorsnee-oppervlak<br>
+gelijk is aan 1 mm2 en de dichtheid 7800 kg/m<sup>3</sup> bedraagt.</p>
+
+<p>&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>μ</mi></mrow></math> = <2> g/m</p>
+
+<p>&nbsp;</p>
+
+<p>c) Bereken de massa per lengte-eenheid van de snaar, indien de spankracht 100 N is en de golfsnelheid 10 m/s.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>μ</mi></mrow></math> = <3> kg/m</p>
+
+<p><br>
+d) Bereken de spankracht indien de dichtheid van de snaar gelijk is aan 8000 kg/m3 , de diameter 2mm is en de golfsnelheid 30 m/s.</p>
+
+<p>T = <4> N</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  100  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  7.8  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  22.6  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="9bd1915c-689e-4f1e-935a-dee9d84aaf7d" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  15.5  ]]></name>
+      <comment><![CDATA[  <p>De snelheid van de longitudinale golf is gegeven door de vergelijking 15-3,&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">v</mi><mo>=</mo><msqrt><mrow><mfrac><mrow><mi mathvariant="italic">E</mi></mrow><mrow><mi mathvariant="italic">ρ</mi></mrow></mfrac></mrow></msqrt></mrow></math>. De snelheid en de frequentie worden gebruikt om de golflengte te vinden. De compressiemodulus vind je in tabel 12-1 en de dichtheid vind je in tabel 13-1.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">λ</mi><mspace width="5px"></mspace><mo>=</mo><mfrac><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mi mathvariant="italic">f</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mfrac><mrow><msqrt><mrow><mfrac><mrow><mi mathvariant="italic">E</mi></mrow><mrow><mi mathvariant="italic">ρ</mi></mrow></mfrac></mrow></msqrt><mspace width="5px"></mspace></mrow><mrow><mi mathvariant="italic">f</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mfrac><mrow><msqrt><mrow><mfrac><mrow><mn>100</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>9</mn></mrow></msup></mrow><mrow><mn>7.8</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></msqrt><mspace width="5px"></mspace></mrow><mrow><mn>$frequencyK</mn></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>$ans</mn></mrow></math>&nbsp; m</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $frequency = range(5000,6000,100); 
+$frequencyK="$frequency";
+$factor = sqrt(100/(7.8))1000; 
+$ans = $factor/$frequency;  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Bepaal de golflengte van een geluidsgolf van $frequencyK Hz in een ijzeren staaf.&nbsp; De snelheid van een geluidsgolf in ijzer bedraagt 3580 m/s.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math>&nbsp;= &nbsp;<1><span>&nbsp;</span>m&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="a32fe04c-f064-44e4-aba4-079f64457636" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  15.12  ]]></name>
+      <comment><![CDATA[  <p>De snelheid is gegeven door vergelijking 15-2. De spanning in de draad is gelijk aan het gewicht van de hangende massa. De lineaire massadichtheid is de massadichtheid vermenigdvuldigd met de oppervlakte van de draad. De massadichtheid van staal is&nbsp;7800 kg/m<sup>3</sup>.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">v</mi><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msqrt><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">F</mi></mrow><mrow><mi mathvariant="italic">T</mi></mrow></msub></mrow><mrow><mi mathvariant="italic">μ</mi></mrow></mfrac></mrow></msqrt><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msqrt><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mi mathvariant="italic">bal</mi></mrow></msub><mi mathvariant="italic">g</mi></mrow><mrow><mfrac><mrow><mi mathvariant="italic">ρV</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></mfrac><mspace width="5px"></mspace></mrow></msqrt><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msqrt><mrow><mfrac><mrow><msub><mrow><mi mathvariant="italic">m</mi></mrow><mrow><mi mathvariant="italic">bal</mi></mrow></msub><mi mathvariant="italic">g</mi></mrow><mrow><mfrac><mrow><mi mathvariant="italic">ρAl</mi></mrow><mrow><mi mathvariant="italic">l</mi></mrow></mfrac></mrow></mfrac></mrow></msqrt><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><msqrt><mrow><mfrac><mrow><mfenced close=")" open="("><mrow><mn>$m</mn></mrow></mfenced><mfenced close=")" open="("><mrow><mn>9.8</mn></mrow></mfenced></mrow><mrow><mfenced close=")" open="("><mrow><mn>7800</mn></mrow></mfenced><mi mathvariant="italic">π</mi><msup><mrow><mfenced close=")" open="("><mrow><mfrac><mrow><mn>$d</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></msqrt><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>$ans</mn></mrow></math>&nbsp;m/s</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $m=decimal(1,range(5,6,0.1));
+$d = decimal(1,range(1,2,0.1)); 
+$x = range(1,10,1); 
+$ans = sqrt(9.81*$m/((7.8*10^3*pi*($d*10^(-3))^2)/4))  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een bal van $m&nbsp;kg hangt aan een staaldraad van $d&nbsp;mm doorsnee met een lengte van $x m. Wat zou de snelheid van een golf in de staaldraad zijn?</p>
+
+<p>&nbsp;(<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>ρ</mi></mrow></math><sub>staal</sub>=7800 kg/m<sup>3</sup>&nbsp;)</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>v</em>&nbsp;=&nbsp;<1><span>&nbsp;</span>m/s</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ans  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="18ac8429-a149-468c-a4ae-4a60d190c52a" modifiedBy="3ae12f61-0062-4a59-ac93-deaa3686eaee" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  2.20  ]]></name>
+      <editing>useHTML</editing>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.0</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een continue harmonische golf plant zich in een snaar voort met een snelheid van 80 cm/s. De beweging van een punt, waarvoor x = 10 cm is, wordt gegeven door D(10,t) = 5sin(1,0 - 4,0t)(cm,s) De massa per lengte-eenheid is gelijk aan 4 g/cm.<br>
+Bepaal de frequentie en de golflengte van de golf. Schrijf de algemene vergelijking van<br>
+deze golf. Bereken de spankracht in de snaar.</p>
+
+<p>&nbsp;f&nbsp; = <1> Hz</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math> = <2> m</p>
+
+<p>D(x,t) = <3><span>&nbsp;</span></p>
+
+<p>&nbsp;F = <4><span> </span>N</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  0.637  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  1.26  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Formula</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  5sin((x/20) - (4t) + 0.5)  ]]></answer>
+          <width>0.0</width>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  0.26  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+
+    <question uid="eff6c800-09d7-4ed5-b25d-5646f1eba957" modifiedBy="436cb620-def2-4015-9db5-a10e73979e1b" school="7184ca85-f587-410e-b5c5-c427562555e1">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  15.24  ]]></name>
+      <comment><![CDATA[  <p>De golf kan je weergeven door&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>D</mi><mo>=</mo><mn>$A</mn><mspace width="5px"></mspace><mi>sin</mi><mfenced close=")" open="("><mrow><mn>$k</mn><mspace width="5px"></mspace><mi mathvariant="italic">x</mi><mo>+</mo><mn>$w</mn><mspace width="5px"></mspace><mi mathvariant="italic">t</mi></mrow></mfenced></mrow></math></p>
+
+<p><strong>Deel A</strong></p>
+
+<p>De golflengte kan gevonden worden door de co&euml;fficient van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">x</mi></mrow></math>.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>$k</mn><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mfrac><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow><mrow><mi mathvariant="italic">λ</mi></mrow></mfrac><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">λ</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow><mrow><mn>$k</mn></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>$ansa</mn></mrow></math>&nbsp;m</p>
+
+<hr />
+<p><strong>Deel B</strong></p>
+
+<p>De frequentie kan gevonden worden door de co&euml;ffici&euml;nt van&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">t</mi></mrow></math>.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>$w</mn><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">πf</mi><mspace width="5px"></mspace><mspace width="5px"></mspace><mo>→</mo><mspace width="5px"></mspace><mspace width="5px"></mspace><mi mathvariant="italic">f</mi><mo>=</mo><mfrac><mrow><mn>$w</mn></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mn>$ansb</mn></mrow></math>&nbsp;Hz</p>
+
+<hr />
+<p><strong>Deel C</strong></p>
+
+<p>De snelheid:&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi mathvariant="italic">v</mi><mo>=</mo><mi mathvariant="italic">λf</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow><mrow><mn>$k</mn></mrow></mfrac><mo>.</mo><mfrac><mrow><mn>$w</mn></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></mfrac><mspace width="5px"></mspace><mo>=</mo><mspace width="5px"></mspace><mn>$ansc</mn></mrow></math>&nbsp;m/s</p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p><strong>Deel E</strong></p>
+
+<p>De amplitude is de co&euml;ffici&euml;nt van de sinus-functie, deze is $A m.</p>
+
+<hr />
+<p><strong>Deel F</strong></p>
+
+<p>De deeltjes van het koord bewegen in een harmonische trilling met dezelfde frequentie als de golf. Door hoofdstuk 14 weten we dat&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mi>max</mi></mrow></msub><mo>=</mo><mi mathvariant="italic">Dω</mi><mo>=</mo><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">πfD</mi></mrow></math>.</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mi>max</mi></mrow></msub><mo>=</mo><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">πfD</mi><mo>=</mo><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi><mfenced close=")" open="("><mrow><mfrac><mrow><mn>$w</mn></mrow><mrow><mn>2</mn><mspace width="5px"></mspace><mi mathvariant="italic">π</mi></mrow></mfrac></mrow></mfenced><mfenced close=")" open="("><mrow><mn>$A</mn></mrow></mfenced><mo>=</mo><mn>$ansf2</mn></mrow></math></p>
+
+<p>Het deeltje is op de minimumsnelheid bij een het terugkerende punt van zijn beweging en dan is de snelheid 0.&nbsp;</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><msub><mrow><mi mathvariant="italic">v</mi></mrow><mrow><mi>min</mi></mrow></msub><mo>=</mo><mn>0</mn></mrow></math></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>  ]]></comment>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $A = decimal(2, range(1.1,2,0.05));
+$k = decimal(1, range(4,5,0.1)); 
+$w = range(50,100,5); 
+$ansa = 2*pi/$k ; 
+$ansb = ($w/2)/pi; 
+$ansc = $w/$k; 
+$anse = $A; 
+$ansf1 = 0; 
+$ansf2 = $A*$w;  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>15.109999656677246</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p>Een transversale lopende golf in een touw wordt voorgesteld door D = $A&nbsp;sin($k x + $w t) met <em>D</em>&nbsp;en <em>x</em>&nbsp;in meter en&nbsp;<em>t</em>&nbsp;in seconden.</p>
+
+<p><strong>Deel A</strong></p>
+
+<p>Bepaal de golflengte van deze golf.&nbsp;</p>
+
+<p><em><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>λ</mi></mrow></math>&nbsp;=&nbsp;</em><1><em>m&nbsp;</em></p>
+
+<p><span>&nbsp;</span></p>
+
+<hr>
+<p><strong>Deel B</strong></p>
+
+<p>Bepaal de frequentie van deze golf.&nbsp;</p>
+
+<p><em>f</em>&nbsp;=&nbsp;<2>Hz</p>
+
+<p><span>&nbsp;</span></p>
+
+<hr>
+<p><strong>Deel C</strong></p>
+
+<p>Bepaal&nbsp;de snelheid van deze golf.&nbsp;</p>
+
+<p>v =&nbsp;<3>m/s</p>
+
+<p><span>&nbsp;</span></p>
+
+<hr>
+<p><strong>Deel D&nbsp;</strong></p>
+
+<p>Bepaal de richting van deze golf.&nbsp;</p>
+
+<4>
+
+<hr>
+<p><strong>Deel E</strong></p>
+
+<p><em>A =&nbsp;</em><strong><5><span>&nbsp;</span></strong><span>m</span></p>
+
+<p>&nbsp;</p>
+
+<hr>
+<p><strong>Deel F</strong></p>
+
+<p>Bepaal de maximale snelheid van de touwdeeltjes.&nbsp;</p>
+
+<p><em>v</em><sub>max&nbsp;&nbsp;</sub>=&nbsp;<6>&nbsp;m/s</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1,1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansa  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansb  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansc  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_abs</grading>
+          <err>2.0</err>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  2  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p>In de positieve x-richting.&nbsp;</p>  ]]></choice>
+            <choice><![CDATA[  <p>In de negatieve x-richting..</p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $anse  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>thousands scientific  arithmetic</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $ansf2  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.0</perc>
+          <showUnits>false</showUnits>
+          <negStyle>minus</negStyle>
+          <numStyle>scientific  arithmetic</numStyle>
+        </part>
+      </parts>
+    </question>
+  </questions>
+
+  <assignments>
+
+    <assignment uid="d3c16bf7-cb9f-424e-b669-696570d53816" modifiedBy="096b6262-3e6a-4dc1-a2d9-b875c1e918a4">
+      <name><![CDATA[  Oefensessie 3 - Extra oefeningen  ]]></name>
+      <description><![CDATA[    ]]></description>
+      <privacy>10</privacy>
+      <category>LESSON</category>
+
+      <sections>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 1  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  15.5  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="9bd1915c-689e-4f1e-935a-dee9d84aaf7d">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 2  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  2.21  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="d2364a9b-052b-419a-98e6-96009d500fdd">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 3  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  15.12  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="a32fe04c-f064-44e4-aba4-079f64457636">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 4  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  15.24  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="eff6c800-09d7-4ed5-b25d-5646f1eba957">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+
+        <lessonSection>
+          <name><![CDATA[  Oefening 5  ]]></name>
+
+          <questionGroups>
+
+            <lsqGroup>
+              <name><![CDATA[  2.20  ]]></name>
+              <shortName></shortName>
+              <weighting>1</weighting>
+              <select>1</select>
+              <type>0</type>
+              <presentationMode>0</presentationMode>
+              <pool>false</pool>
+
+              <questions>
+                <qRef uid="18ac8429-a149-468c-a4ae-4a60d190c52a">
+                  <name><![CDATA[    ]]></name>
+                </qRef>
+              </questions>
+            </lsqGroup>
+          </questionGroups>
+          <presentationMode>2</presentationMode>
+        </lessonSection>
+      </sections>
+
+      <policies>
+        <mode>8</mode>
+        <reworkable>false</reworkable>
+        <reuseAlgorithmicVariables>false</reuseAlgorithmicVariables>
+        <targeted>false</targeted>
+        <scramble>0</scramble>
+        <printable>false</printable>
+        <preAuthorized>false</preAuthorized>
+        <gradeAuthorizationRequired>false</gradeAuthorizationRequired>
+        <useLockdown>false</useLockdown>
+        <isVisibleAdvancedPolicy>false</isVisibleAdvancedPolicy>
+        <passingScore>-1</passingScore>
+        <showPassFailFeedback>0</showPassFailFeedback>
+        <timeLimit>-1</timeLimit>
+        <quPerPage>1</quPerPage>
+        <presentationMode>0</presentationMode>
+        <completionMode>3</completionMode>
+        <isVisibleTimeRange>false</isVisibleTimeRange>
+        <isVisible>true</isVisible>
+        <forceGrade>false</forceGrade>
+        <allowSubmitLesson>false</allowSubmitLesson>
+        <showLaunchPage>false</showLaunchPage>
+        <showAdaptiveProgress>false</showAdaptiveProgress>
+        <hintsShown>false</hintsShown>
+        <showOneHint>false</showOneHint>
+        <showCurrentGrade>false</showCurrentGrade>
+        <allowResubmitQuestion>true</allowResubmitQuestion>
+        <inSessionGradeReported>true</inSessionGradeReported>
+        <inSessionAnswer>0</inSessionAnswer>
+        <inSessionComment>0</inSessionComment>
+        <gradeReported>true</gradeReported>
+        <showAnswer>2</showAnswer>
+        <showComment>0</showComment>
+        <emailNotified>false</emailNotified>
+        <delayedFeedback>false</delayedFeedback>
+        <maxAttempts>-1</maxAttempts>
+      </policies>
+    </assignment>
+  </assignments>
+
+  <authors>
+
+    <author uid="096b6262-3e6a-4dc1-a2d9-b875c1e918a4" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Els Koppen  ]]></displayName>
+    </author>
+
+    <author uid="3ae12f61-0062-4a59-ac93-deaa3686eaee" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Ruben Verschueren  ]]></displayName>
+    </author>
+
+    <author uid="436cb620-def2-4015-9db5-a10e73979e1b" instanceUid="e3e940ac-5a0e-4e12-9f6b-40d06aac9158" defaultSchool="7184ca85-f587-410e-b5c5-c427562555e1">
+      <displayName><![CDATA[  Johan Van den Bossche  ]]></displayName>
+    </author>
+  </authors>
+
+  <schools>
+
+    <school uid="7184ca85-f587-410e-b5c5-c427562555e1">
+      <name><![CDATA[  Katholieke Universiteit Leuven  ]]></name>
+    </school>
+  </schools>
+</courseModule>
